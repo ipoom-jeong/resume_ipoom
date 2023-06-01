@@ -202,6 +202,9 @@ sections:
         postcode: '61801'
         country: United States
         country_code: US
+      coordinates:
+        latitude: '40.115030'
+        longitude: '-88.226570'
       directions: Enter CSL (Coordinated Science Laboratory) building and take the stairs to Office 456 on Floor 4
       office_hours:
         - 'Monday 10:00 to 13:00'
