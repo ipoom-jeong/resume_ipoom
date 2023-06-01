@@ -5,6 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
+<!--
   - block: hero
     content:
       title: Hugo Academic Theme
@@ -25,16 +26,16 @@ sections:
         **Easily build anything with blocks - no-code required!**
 
         From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
-
+-->
         <!--Custom spacing-->
-        <div class="mb-3"></div>
+        #<div class="mb-3"></div>
         <!--GitHub Button JS-->
-        <script async defer src="https://buttons.github.io/buttons.js"></script>
-    design:
-      background:
-        gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
-        text_color_light: true
+        #<script async defer src="https://buttons.github.io/buttons.js"></script>
+    #design:
+    #  background:
+    #    gradient_end: '#1976d2'
+    #    gradient_start: '#004ba0'
+    #    text_color_light: true
   - block: about.biography
     id: about
     content:
