@@ -30,7 +30,7 @@ sections:
           location: Illinois, USA
           date_start: '2022-09-01'
           date_end: ''
-          description: |2-
+          description: |3-
               * Coordinated Science Lab (CSL)
               * Principal Investigator (PI): Professor Nam Sung Kim
               * Research Topics:
@@ -61,7 +61,7 @@ sections:
           location: Seoul, Korea
           date_start: '2014-03-01'
           date_end: '2020-02-28'
-          description: |2-
+          description: |3-
               * Embedded Systems and Computer Architecture Lab (esCaL)
               * Advisor: Professor Won Woo Ro
               * Research Topics:
