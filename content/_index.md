@@ -46,7 +46,7 @@ sections:
               * Research Topics: Energy-Efficient CPU/GPU Microarchitectures
         - title: Engineer/Staff Engineer
           company: Samsung Electronics
-          company_url: ''
+          company_url: 'https://www.samsung.com/'
           company_logo: ''
           location: Hwaseong-si, Gyeonggi-do, Korea
           date_start: '2020-03-01'
