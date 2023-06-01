@@ -36,7 +36,7 @@ publication: arXiv Preprint
 url_tutorial: ""
 title: A Quantitative Analysis and Guideline of Data Streaming Accelerator in
   Intel 4th Gen Xeon Scalable Processors
-featured: false
+featured: true
 tags:
   - Accelerator
   - DMA
