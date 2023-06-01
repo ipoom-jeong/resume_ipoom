@@ -9,7 +9,7 @@ authors:
   - admin
   - Ren Wang
   - Nam Sung Kim
-publication_short: ""
+publication: arXiv Preprint
 abstract: The high demand for memory capacity in modern datacenters has led to
   multiple lines of innovation in memory expansion and disaggregation. One such
   effort is Compute eXpress Link (CXL)-based memory expansion, which has gained
@@ -27,14 +27,15 @@ abstract: The high demand for memory capacity in modern datacenters has led to
   potential of CXL memory.
 draft: false
 url_pdf: https://arxiv.org/abs/2303.15375
+featured: true
+summary: asd
 url_dataset: ""
 url_project: ""
+publication_short: ""
 url_source: ""
 url_video: ""
-publication: arXiv Preprint
 url_tutorial: ""
 title: Demystifying CXL Memory with Genuine CXL-Ready Systems and Devices
-featured: true
 tags:
   - CXL
   - Memory Expansion
