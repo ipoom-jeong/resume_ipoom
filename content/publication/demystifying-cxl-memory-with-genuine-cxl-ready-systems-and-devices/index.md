@@ -8,7 +8,7 @@ authors:
   - Reese Kuper
   - admin
   - Ren Wang
-  - and Nam Sung Kim
+  - Nam Sung Kim
 publication_short: ""
 abstract: The high demand for memory capacity in modern datacenters has led to
   multiple lines of innovation in memory expansion and disaggregation. One such
@@ -34,7 +34,7 @@ url_video: ""
 publication: arXiv Preprint
 url_tutorial: ""
 title: Demystifying CXL Memory with Genuine CXL-Ready Systems and Devices
-featured: false
+featured: true
 tags:
   - CXL
   - Memory Expansion
