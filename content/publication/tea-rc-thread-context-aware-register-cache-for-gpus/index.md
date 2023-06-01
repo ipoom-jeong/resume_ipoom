@@ -1,4 +1,5 @@
 ---
+title: "TEA-RC: Thread Context-Aware Register Cache for GPUs"
 publication_types:
   - "2"
 authors:
@@ -6,7 +7,7 @@ authors:
   - Yunho Oh
   - Won Woo Ro
   - Myung Kuk Yoon
-publication_short: ""
+publication: "IEEE Access (Volume: 10)"
 abstract: "Graphics processing units (GPUs) achieve high throughput by
   exploiting a high degree of thread-level parallelism (TLP). To support such
   high TLP, GPUs have a large-sized register file to store the context of all
@@ -29,19 +30,19 @@ abstract: "Graphics processing units (GPUs) achieve high throughput by
   bits of register ID to compute the cache index."
 draft: false
 url_pdf: https://ieeexplore.ieee.org/abstract/document/8807276
-url_dataset: ""
-url_project: ""
-url_source: ""
-url_video: ""
-title: "TEA-RC: Thread Context-Aware Register Cache for GPUs"
-doi: 10.1109/ACCESS.2022.3196149
-publication: "IEEE Access (Volume: 10)"
-featured: false
+featured: true
 tags:
   - GPU
   - Microarchitecture
   - Register File
   - Energy Efficiency
+summary: asd
+url_dataset: ""
+url_project: ""
+publication_short: ""
+url_source: ""
+url_video: ""
+doi: 10.1109/ACCESS.2022.3196149
 image:
   filename: featured.png
   focal_point: Smart
