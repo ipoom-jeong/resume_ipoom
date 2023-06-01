@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ipoom Jeong 정이품
+title: Ipoom Jeong
 
 # Full name (for SEO)
 first_name: Ipoom
