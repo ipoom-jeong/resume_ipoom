@@ -5,7 +5,7 @@ authors:
   - Yunho Oh
   - admin
   - Won Woo Ro
-  - and Myung Kuk Yoon
+  - Myung Kuk Yoon
 publication_short: ""
 abstract: Spin-transfer torque magnetic random-access memory (STT-MRAM) is an
   emerging nonvolatile memory technology that has been received significant
