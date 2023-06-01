@@ -67,7 +67,7 @@ sections:
               * Research Topics:
         - title: Teaching Assistant
           company: Yonsei University
-          company_url: ''
+          company_url: 'https://www.yonsei.ac.kr/'
           company_logo: ''
           location: Seoul, Korea
           date_start: '2014-03-01'
