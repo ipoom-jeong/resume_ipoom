@@ -31,16 +31,50 @@ sections:
           date_start: '2022-09-01'
           date_end: ''
           description: |2-
-              * Research Topics:
+              * Coordinated Science Lab (CSL)
               * Principal Investigator (PI): Professor Nam Sung Kim
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Research Topics:
+         - title: Research Professor
+          company: Yonsei University
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: ''
+          location: Seoul, Korea
+          date_start: '2021-09-01'
+          date_end: '2022-08-31'
+          description: |2-
+              * BK21 Y-BASE R&E Institute, Department of Electrical and Electronic Engineering
+              * Research Topics: Energy-Efficient CPU/GPU Microarchitectures
+         - title: Engineer/Staff Engineer
+          company: Samsung Electronics
+          company_url: ''
+          company_logo: ''
+          location: Illinois, USA
+          date_start: '2020-03-01'
+          date_end: '2020-08-31'
+          description: |2-
+              * Advanced Solution Development Team, Memory Business
+              * Research Topics: CXL-Based Accelerator/Memory Expansion Devices, SmartSSD 2.0
+         - title: Research Assistant
+          company: Yonsei University
+          company_url: ''
+          company_logo: ''
+          location: Seoul, Korea
+          date_start: '2014-03-01'
+          date_end: '2020-02-28'
+          description: |2-
+              * Embedded Systems and Computer Architecture Lab (esCaL)
+              * Advisor: Professor Won Woo Ro
+              * Research Topics:
+         - title: Teaching Assistant
+          company: Yonsei University
+          company_url: ''
+          company_logo: ''
+          location: Seoul, Korea
+          date_start: '2014-03-01'
+          date_end: '2020-02-28'
+          description: |2-
+              * Undergraduate courses: Computer Architecture (EEE3530, 14-1st, 16-1st), Electrical and Electronic Engineering Experiments: Fundamentals (EEE2111, 14-2nd, 15-2nd), Graduation Research (15-1st)
+              * Graduate courses: Advanced Computer Architecture (E6501, 17-1st), System Design and Applications Lab (EEE6611, 18-1st, 18-2nd)
     design:
       columns: '2'
   - block: accomplishments
