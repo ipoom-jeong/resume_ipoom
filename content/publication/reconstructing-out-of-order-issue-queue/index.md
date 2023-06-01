@@ -1,4 +1,5 @@
 ---
+title: Reconstructing Out-of-Order Issue Queue
 publication_types:
   - "1"
 authors:
@@ -6,7 +7,7 @@ authors:
   - Jiwon Lee
   - Myung Kuk Yoon
   - Won Woo Ro
-publication_short: ""
+publication: 2022 55th IEEE/ACM International Symposium on Microarchitecture (MICRO)
 abstract: >-
   Out-of-order cores provide high performance at the cost of energy efficiency.
   Dynamic scheduling is one of the major contributors to this: generating highly
@@ -22,19 +23,19 @@ abstract: >-
   In this work, we revisit two previous designs: one classical dependence-based design and the other state-of-the-art readiness-based design. We observe that they are complementary to each other, and thus their synergistic integration has the potential to be a good alternative to an out-of-order IQ. We first combine these two designs, and further analyze the main architectural bottlenecks that incur the underutilization of aggregate issue capability, thereby limiting the exploitation of instruction-level and memory-level parallelisms: 1) memory dependences not exposed by the register-based dependence analysis and 2) wide and shallow nature of dynamic dependence chains due to the long-latency memory accesses. To this end, we propose Ballerino, a novel microarchitecture that performs balanced and cache-miss-tolerable dynamic scheduling via a complementary combination of cascaded and clustered in-order IQs. Ballerino is built upon three key functionalities: 1) speculatively filtering out ready-at-dispatch instructions, 2) eliminating wasteful wakeup operations via a simple steering technique leveraging the awareness of memory dependences, and 3) reacting to program phase changes by allowing different load-dependent chains to share a single IQ while guaranteeing their out-of-order issue. The net effect is minimal scheduling energy consumption per instruction while providing comparable scheduling performance to a fully out-of-order IQ. In our analysis, Ballerino achieves comparable performance to an 8-wide out-of-order core by using twelve in-order IQs, improving core-wide energy efficiency by 20%.
 draft: false
 url_pdf: https://ieeexplore.ieee.org/document/9923800
-url_dataset: ""
-url_project: ""
-url_source: ""
-url_video: ""
-title: Reconstructing Out-of-Order Issue Queue
-doi: 10.1109/MICRO56248.2022.00023
-publication: 2022 55th IEEE/ACM International Symposium on Microarchitecture (MICRO)
 featured: true
 tags:
   - CPU
   - Microarchitecture
   - Dynamic Scheduling
   - Energy Efficiency
+summary: asd
+url_dataset: ""
+url_project: ""
+publication_short: ""
+url_source: ""
+url_video: ""
+doi: 10.1109/MICRO56248.2022.00023
 image:
   filename: featured.jpg
   focal_point: Smart
