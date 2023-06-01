@@ -73,5 +73,4 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Ipoom Jeong is a Postdoctoral Research Associate at the University of Illinois Urbana-Champaign and a member of IEEE. He received his Ph.D. degree from the Department of Electrical and Electronic Engineering at Yonsei University, South Korea, in 2020. His research experience includes a Hardware Engineer in Memory Business at Samsung Electronics (2020-2021) and a Research Professor at the Department of Electrical and Electronic Engineering, Yonsei University (2021-2022).
