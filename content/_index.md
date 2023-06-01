@@ -31,7 +31,8 @@ sections:
           date_start: '2022-09-01'
           date_end: ''
           description: |2-
-              Principal Investigator (PI): Professor Nam Sung Kim
+              * Research Topics:
+              * Principal Investigator (PI): Professor Nam Sung Kim
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
