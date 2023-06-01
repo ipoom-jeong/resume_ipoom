@@ -6,7 +6,7 @@ authors:
   - Kyungmin Lee
   - admin
   - Jong Hyun Park
-  - and Won Woo Ro
+  - Won Woo Ro
 publication_short: ""
 abstract: >-
   GPGPU has been popular in many research fields due to its ability to execute
