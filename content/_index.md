@@ -26,7 +26,7 @@ sections:
         - title: Postdoctoral Research Associate
           company: University of Illinois Urbana-Champaign
           company_url: ''
-          company_logo: 'tn.png'
+          company_logo: ''
           location: Illinois, USA
           date_start: '2022-09-01'
           date_end: ''
