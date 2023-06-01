@@ -6,7 +6,7 @@ authors:
   - Changmin Lee
   - Keunsoo Kim
   - Won Woo Ro
-publication_short: ""
+publication_short: IEEE Transactions on Computers
 abstract: "Coarse-grained instruction commit mechanisms enabled the effective
   size of the instruction window to be as large as possible by committing a
   group of instructions atomically. Within a group, the reorder buffer (ROB) and
