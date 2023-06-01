@@ -48,9 +48,9 @@ sections:
           company: Samsung Electronics
           company_url: ''
           company_logo: ''
-          location: Illinois, USA
+          location: Hwaseong-si, Gyeonggi-do, Korea
           date_start: '2020-03-01'
-          date_end: '2020-08-31'
+          date_end: '2021-08-31'
           description: |2-
               * Advanced Solution Development Team, Memory Business
               * Research Topics: CXL-Based Accelerator/Memory Expansion Devices, SmartSSD 2.0
@@ -62,7 +62,7 @@ sections:
           date_start: '2014-03-01'
           date_end: '2020-02-28'
           description: |2-
-              * Embedded Systems and Computer Architecture Lab (esCaL)
+              * Embedded Systems and Computer Architecture Lab (eSCaL)
               * Advisor: Professor Won Woo Ro
               * Research Topics:
         - title: Teaching Assistant
