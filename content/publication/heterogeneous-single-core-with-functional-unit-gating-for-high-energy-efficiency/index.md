@@ -4,7 +4,7 @@ publication_types:
 authors:
   - Yoonsoo Kim
   - admin
-  - and Won Woo Ro
+  - Won Woo Ro
 publication_short: ""
 abstract: Energy efficiency has become an important issue in modern
   microprocessor designs. In this paper, we propose a core microarchitecture
