@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Ipoom Jeong 정이품
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Ipoom
+last_name: Jeong
 
 # Status emoji
 status:
