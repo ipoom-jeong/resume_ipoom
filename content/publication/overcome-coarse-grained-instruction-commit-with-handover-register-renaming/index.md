@@ -5,7 +5,7 @@ authors:
   - admin
   - Changmin Lee
   - Keunsoo Kim
-  - and Won Woo Ro
+  - Won Woo Ro
 publication_short: ""
 abstract: "Coarse-grained instruction commit mechanisms enabled the effective
   size of the instruction window to be as large as possible by committing a
@@ -37,7 +37,7 @@ url_video: ""
 title: "OverCome: Coarse-Grained Instruction Commit with Handover Register Renaming"
 doi: 10.1109/TC.2019.2936557
 publication: "IEEE Transactions on Computers (Volume: 68, Issue: 12)"
-featured: false
+featured: true
 tags:
   - CPU
   - Microarchitecture
