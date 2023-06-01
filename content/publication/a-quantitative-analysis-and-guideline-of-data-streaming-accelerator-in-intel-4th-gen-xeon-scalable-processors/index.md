@@ -8,7 +8,7 @@ authors:
   - Jiayu Hu
   - Ren Wang
   - Narayan Ranganathan
-  - and Nam Sung Kim
+  - Nam Sung Kim
 publication_short: ""
 abstract: As semiconductor power density is no longer constant with the
   technology process scaling down, modern CPUs are integrating capable data
