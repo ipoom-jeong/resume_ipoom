@@ -34,6 +34,17 @@ sections:
               * Coordinated Science Lab (CSL)
               * Principal Investigator (PI): Professor Nam Sung Kim
               * Research Topics:
+        - title: Research Professor
+          company: Yonsei University
+          company_url: ''
+          company_logo: ''
+          location: Seoul, Korea
+          date_start: '2021-09-01'
+          date_end: '2022-08-31'
+          description: |2-
+              * BK21 Y-BASE R&E Institute, Department of Electrical and Electronic Engineering
+              * Research Topics: Energy-Efficient CPU/GPU Microarchitectures
+
     design:
       columns: '2'
   - block: accomplishments
