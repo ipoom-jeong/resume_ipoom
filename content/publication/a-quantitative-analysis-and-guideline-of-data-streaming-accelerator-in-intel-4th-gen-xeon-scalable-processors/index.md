@@ -9,7 +9,7 @@ authors:
   - Ren Wang
   - Narayan Ranganathan
   - Nam Sung Kim
-publication_short: ""
+publication: arXiv Preprint
 abstract: As semiconductor power density is no longer constant with the
   technology process scaling down, modern CPUs are integrating capable data
   accelerators on chip, aiming to improve performance and efficiency for a wide
@@ -28,15 +28,16 @@ abstract: As semiconductor power density is no longer constant with the
   DPDK Vhost to demonstrate how these guidelines benefit a real application.
 draft: false
 url_pdf: https://arxiv.org/abs/2305.02480
+featured: true
+summary: asd
 url_dataset: ""
 url_project: ""
+publication_short: ""
 url_source: ""
 url_video: ""
-publication: arXiv Preprint
 url_tutorial: ""
 title: A Quantitative Analysis and Guideline of Data Streaming Accelerator in
   Intel 4th Gen Xeon Scalable Processors
-featured: true
 tags:
   - Accelerator
   - DMA
