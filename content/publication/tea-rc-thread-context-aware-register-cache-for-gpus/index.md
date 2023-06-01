@@ -5,7 +5,7 @@ authors:
   - admin
   - Yunho Oh
   - Won Woo Ro
-  - and Myung Kuk Yoon
+  - Myung Kuk Yoon
 publication_short: ""
 abstract: "Graphics processing units (GPUs) achieve high throughput by
   exploiting a high degree of thread-level parallelism (TLP). To support such
@@ -36,7 +36,7 @@ url_video: ""
 title: "TEA-RC: Thread Context-Aware Register Cache for GPUs"
 doi: 10.1109/ACCESS.2022.3196149
 publication: "IEEE Access (Volume: 10)"
-featured: false
+featured: true
 tags:
   - GPU
   - Microarchitecture
