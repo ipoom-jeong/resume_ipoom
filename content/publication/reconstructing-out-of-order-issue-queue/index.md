@@ -6,7 +6,7 @@ authors:
   - Jiwon Lee
   - Myung Kuk Yoon
   - Won Woo Ro
-publication_short: MICRO 2022
+publication_short: ""
 abstract: >-
   Out-of-order cores provide high performance at the cost of energy efficiency.
   Dynamic scheduling is one of the major contributors to this: generating highly
