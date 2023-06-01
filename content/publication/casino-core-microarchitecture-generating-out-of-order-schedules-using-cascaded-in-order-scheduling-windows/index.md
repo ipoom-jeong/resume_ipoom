@@ -1,4 +1,6 @@
 ---
+title: "CASINO Core Microarchitecture: Generating Out-of-Order Schedules Using
+  Cascaded In-Order Scheduling Windows"
 publication_types:
   - "1"
 authors:
@@ -6,7 +8,8 @@ authors:
   - Seihoon Park
   - Changmin Lee
   - Won Woo Ro
-publication_short: ""
+publication: 2020 IEEE International Symposium on High Performance Computer
+  Architecture (HPCA)
 abstract: >-
   The performance gap between in-order (InO) and out-of-order (OoO) cores comes
   from the ability to dynamically create highly optimized instruction issue
@@ -22,21 +25,19 @@ abstract: >-
   To this end, we propose a CASINO core microarchitecture that dynamically and speculatively generates OoO schedules with near-InO complexity, using CAScaded IN-Order scheduling windows. A Speculative IQ (S-IQ) issues an instruction if it is ready, or otherwise passes it to the next IQ. At the last IQ, instructions are scheduled in program order along serial dependence chains. The net effect is OoO scheduling via collaboration between cascaded InO IQs. To support speculative execution with minimal cost overhead, we propose a novel register renaming technique that allocates free physical registers only to instructions issued from the S-IQ. The proposed core performs dynamic memory disambiguation via an on-commit value check by extending the store buffer already existing in an InO core. We further optimize energy efficiency by filtering out redundant associative searches performed by speculated loads. In our analysis, CASINO core improves performance by 51% over an InO core (within 10 percentage points of an OoO core), which results in 25% and 42% improvements in energy efficiency over InO and OoO cores, respectively.
 draft: false
 url_pdf: https://ieeexplore.ieee.org/document/9065575
-url_dataset: ""
-url_project: ""
-url_source: ""
-url_video: ""
-title: "CASINO Core Microarchitecture: Generating Out-of-Order Schedules Using
-  Cascaded In-Order Scheduling Windows"
-doi: 10.1109/HPCA47549.2020.00039
-publication: 2020 IEEE International Symposium on High Performance Computer
-  Architecture (HPCA)
 featured: true
 tags:
   - CPU
   - Microarchitecture
   - Dynamic Scheduling
   - Energy Efficiency
+summary: asd
+url_dataset: ""
+url_project: ""
+publication_short: ""
+url_source: ""
+url_video: ""
+doi: 10.1109/HPCA47549.2020.00039
 image:
   filename: featured.png
   focal_point: Smart
