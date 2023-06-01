@@ -5,7 +5,7 @@ authors:
   - admin
   - Seihoon Park
   - Changmin Lee
-  - and Won Woo Ro
+  - Won Woo Ro
 publication_short: ""
 abstract: >-
   The performance gap between in-order (InO) and out-of-order (OoO) cores comes
@@ -31,7 +31,7 @@ title: "CASINO Core Microarchitecture: Generating Out-of-Order Schedules Using
 doi: 10.1109/HPCA47549.2020.00039
 publication: 2020 IEEE International Symposium on High Performance Computer
   Architecture (HPCA)
-featured: false
+featured: true
 tags:
   - CPU
   - Microarchitecture
