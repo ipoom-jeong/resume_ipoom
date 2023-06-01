@@ -68,7 +68,7 @@ sections:
         - title: Teaching Assistant
           company: Yonsei University
           company_url: 'https://www.yonsei.ac.kr/'
-          company_logo: 'Yonsei-University'
+          company_logo: 'yonsei'
           location: Seoul, Korea
           date_start: '2014-03-01'
           date_end: '2020-02-28'
