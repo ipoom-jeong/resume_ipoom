@@ -25,7 +25,7 @@ sections:
       items:
         - title: Postdoctoral Research Associate
           company: University of Illinois Urbana-Champaign
-          company_url: ''
+          company_url: 'https://illinois.edu/'
           company_logo: ''
           location: Illinois, USA
           date_start: '2022-09-01'
@@ -36,7 +36,7 @@ sections:
               * Research Topics:
         - title: Research Professor
           company: Yonsei University
-          company_url: ''
+          company_url: 'https://www.yonsei.ac.kr/'
           company_logo: ''
           location: Seoul, Korea
           date_start: '2021-09-01'
@@ -56,7 +56,7 @@ sections:
               * Research Topics: CXL-Based Accelerator/Memory Expansion Devices, SmartSSD 2.0
         - title: Research Assistant
           company: Yonsei University
-          company_url: ''
+          company_url: 'https://www.yonsei.ac.kr/'
           company_logo: ''
           location: Seoul, Korea
           date_start: '2014-03-01'
