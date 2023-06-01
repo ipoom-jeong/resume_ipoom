@@ -34,7 +34,7 @@ tags:
 summary: asd
 url_dataset: ""
 url_project: ""
-publication_short: ""
+publication_short: HPCA 2020
 url_source: ""
 url_video: ""
 doi: 10.1109/HPCA47549.2020.00039
