@@ -5,7 +5,7 @@ authors:
   - admin
   - Jiwon Lee
   - Myung Kuk Yoon
-  - and Won Woo Ro
+  - Won Woo Ro
 publication_short: ""
 abstract: >-
   Out-of-order cores provide high performance at the cost of energy efficiency.
@@ -29,7 +29,7 @@ url_video: ""
 title: Reconstructing Out-of-Order Issue Queue
 doi: 10.1109/MICRO56248.2022.00023
 publication: 2022 55th IEEE/ACM International Symposium on Microarchitecture (MICRO)
-featured: false
+featured: true
 tags:
   - CPU
   - Microarchitecture
