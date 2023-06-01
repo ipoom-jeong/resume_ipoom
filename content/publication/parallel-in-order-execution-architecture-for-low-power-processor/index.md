@@ -4,7 +4,7 @@ publication_types:
 authors:
   - Kyungmin Lee
   - admin
-  - and Won Woo Ro
+  - Won Woo Ro
 publication_short: ""
 abstract: "Mobile devices, such as smartphones and tablet PCs, have been widely
   used in everyday life. These devices are required to provide high performance
