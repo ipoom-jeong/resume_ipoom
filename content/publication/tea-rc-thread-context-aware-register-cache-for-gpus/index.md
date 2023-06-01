@@ -6,7 +6,7 @@ authors:
   - Yunho Oh
   - Won Woo Ro
   - Myung Kuk Yoon
-publication_short: IEEE Access
+publication_short: ""
 abstract: "Graphics processing units (GPUs) achieve high throughput by
   exploiting a high degree of thread-level parallelism (TLP). To support such
   high TLP, GPUs have a large-sized register file to store the context of all
