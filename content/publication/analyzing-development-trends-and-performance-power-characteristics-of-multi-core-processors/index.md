@@ -3,7 +3,7 @@ publication_types:
   - "1"
 authors:
   - admin
-  - and Won Woo Ro
+  - Won Woo Ro
 publication_short: ""
 abstract: This paper analyzes various multi-core architectures that have been
   proposed for decades to increase the performance or power efficiency of
