@@ -3,7 +3,7 @@ publication_types:
   - "1"
 authors:
   - admin
-  - and Won Woo Ro
+  - Won Woo Ro
 publication_short: ""
 abstract: >-
   Performance of dynamic optimization system is strongly affected by the region
