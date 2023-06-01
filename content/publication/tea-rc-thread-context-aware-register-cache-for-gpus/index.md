@@ -36,7 +36,7 @@ url_video: ""
 title: "TEA-RC: Thread Context-Aware Register Cache for GPUs"
 doi: 10.1109/ACCESS.2022.3196149
 publication: "IEEE Access (Volume: 10)"
-featured: true
+featured: false
 tags:
   - GPU
   - Microarchitecture
