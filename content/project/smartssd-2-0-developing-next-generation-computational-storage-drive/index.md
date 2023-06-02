@@ -5,6 +5,8 @@ summary: >-
   * [Research and development project in Samsung
   Electronics](https://news.samsung.com/global/samsung-electronics-develops-second-generation-smartssd-computational-storage-drive-with-upgraded-processing-functionality)
 
+  * D﻿esigning  SoC (system-on-chip) for the next-generation CSD (computational storage drive)
+
   * [A prototype was announced at Flash Memory Summit (FMS) 2022](https://blocksandfiles.com/2022/08/08/samsung-lays-tasty-flash-eggs-at-fms-2022/)
 draft: false
 featured: false
