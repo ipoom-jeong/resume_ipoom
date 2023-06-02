@@ -1,4 +1,5 @@
 ---
+title: "OverCome: Coarse-Grained Instruction Commit with Handover Register Renaming"
 publication_types:
   - "2"
 authors:
@@ -6,7 +7,7 @@ authors:
   - Changmin Lee
   - Keunsoo Kim
   - Won Woo Ro
-publication_short: ""
+publication: "IEEE Transactions on Computers (Volume: 68, Issue: 12)"
 abstract: "Coarse-grained instruction commit mechanisms enabled the effective
   size of the instruction window to be as large as possible by committing a
   group of instructions atomically. Within a group, the reorder buffer (ROB) and
@@ -30,19 +31,21 @@ abstract: "Coarse-grained instruction commit mechanisms enabled the effective
   4×, with a net overhead of less than 3 percent of the core area."
 draft: false
 url_pdf: https://ieeexplore.ieee.org/abstract/document/8807276
-url_dataset: ""
-url_project: ""
-url_source: ""
-url_video: ""
-title: "OverCome: Coarse-Grained Instruction Commit with Handover Register Renaming"
-doi: 10.1109/TC.2019.2936557
-publication: "IEEE Transactions on Computers (Volume: 68, Issue: 12)"
 featured: true
 tags:
   - CPU
   - Microarchitecture
   - Instruction Window
   - Energy Efficiency
+summary: In this paper, we propose an OverCome microarchitecture based on a
+  history-based approach to augment the effective size of the instruction window
+  via coarse-grained instruction commit.
+url_dataset: ""
+url_project: ""
+publication_short: ""
+url_source: ""
+url_video: ""
+doi: 10.1109/TC.2019.2936557
 image:
   filename: featured.png
   focal_point: Smart
