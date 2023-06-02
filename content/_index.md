@@ -185,11 +185,12 @@ sections:
       title: Scholarships and Awards
       subtitle: ""
       text: |2-
-        * [2021.11] Encouragement Prize at the Outstanding Patent Award
-        * [2020.02] Bronze Prize at the 26th Samsung Humantech Paper Award
-        * [2019.11] Excellent Graduate Researcher Scholarship
-        * [2018.02] Encouragement Prize at the 24th Samsung Humantech Paper Award
-        * [2010.03 - 2014.02] National Scholarship for Science and Engineering
+        * [2021.11]  Encouragement Prize at the Outstanding Patent Award
+          **asd
+        * [2020.02]  Bronze Prize at the 26th Samsung Humantech Paper Award
+        * [2019.11]  Excellent Graduate Researcher Scholarship
+        * [2018.02]  Encouragement Prize at the 24th Samsung Humantech Paper Award
+        * [2010.03 - 2014.02]  National Scholarship for Science and Engineering
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
