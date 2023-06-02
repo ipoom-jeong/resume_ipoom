@@ -8,6 +8,9 @@ summary: >-
   * [A prototype was announced at Flash Memory Summit (FMS) 2022](https://blocksandfiles.com/2022/08/08/samsung-lays-tasty-flash-eggs-at-fms-2022/)
 draft: false
 featured: false
+tags:
+  - SmartSSD
+  - Computation
 image:
   filename: featured.jpg
   focal_point: Smart
