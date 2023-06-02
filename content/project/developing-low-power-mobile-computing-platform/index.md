@@ -8,7 +8,7 @@ summary: >-
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: mobileap.jpeg
   focal_point: Smart
   preview_only: false
 ---
