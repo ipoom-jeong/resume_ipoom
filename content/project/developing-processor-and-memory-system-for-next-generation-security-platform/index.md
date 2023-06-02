@@ -1,7 +1,10 @@
 ---
 title: Developing Processor and Memory System for Next-Generation Security Platform
 date: 2017-09-01T00:00:00.000Z
-summary: \-﻿ Joint research project in Yonsei University with Samsung Electronics
+summary: >-
+  * Research project at Yonsei University joint with Samsung Electronics 
+
+  * Developing ASIPs (application-specific instruction-set processors) for cryptographic algorithms (e.g., AES, SHA-256, RSA-2048)
 draft: false
 featured: false
 image:
