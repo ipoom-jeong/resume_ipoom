@@ -33,7 +33,7 @@ sections:
           description: |2-
               * Coordinated Science Lab (CSL)
               * Principal Investigator (PI): Professor Nam Sung Kim
-              * Research Topics:
+              * Research Topics: Architectures and Optimizations for Datacenters, Smart-I/O Devices
         - title: Research Professor
           company: Yonsei University
           company_url: 'https://www.yonsei.ac.kr/'
@@ -43,7 +43,7 @@ sections:
           date_end: '2022-08-31'
           description: |2-
               * BK21 Y-BASE R&E Institute, Department of Electrical and Electronic Engineering
-              * Research Topics: Energy-Efficient CPU/GPU Microarchitectures
+              * Research Topics: Energy-Efficient CPU/GPU Microarchitectures, Processing-in-Memory (PIM) Architectures
         - title: Engineer/Staff Engineer
           company: Samsung Electronics
           company_url: 'https://www.samsung.com/'
@@ -64,7 +64,7 @@ sections:
           description: |2-
               * Embedded Systems and Computer Architecture Lab (eSCaL)
               * Advisor: Professor Won Woo Ro
-              * Research Topics:
+              * Research Topics: Energy-Efficient CPU/GPU Microarchitectures, Multi-Core Architectures
         - title: Teaching Assistant
           company: Yonsei University
           company_url: 'https://www.yonsei.ac.kr/'
