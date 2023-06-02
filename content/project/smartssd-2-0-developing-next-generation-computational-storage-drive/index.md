@@ -12,4 +12,5 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
+  caption: SmartSSD 2.0 Prototype
 ---
