@@ -1,11 +1,14 @@
 ---
 title: Developing Energy-Efficient Approximate Memory for Neural Network Applications
 date: 2018-07-01T00:00:00.000Z
-summary: \-﻿ Joint research project in Yonsei University with SK Hynix
+summary: >-
+  * Research project at Yonsei University joint with SK Hynix 
+
+  * E﻿xploring an energy-efficient approximate memory architecture for deep learning applications
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: memory.jpg
   focal_point: Smart
   preview_only: false
 ---
