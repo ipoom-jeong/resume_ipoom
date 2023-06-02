@@ -4,7 +4,7 @@ date: 2020-09-01T00:00:00.000Z
 summary: >-
   * ﻿Research and development project at Samsung Electronics
 
-  * D﻿esigning  SoC (system-on-chip) for next-generation CSDs (computational storage drives)
+  * D﻿esigning  SoC (System-on-Chip) for next-generation CSDs (Computational Storage Drives)
 
   * [A prototype was announced at Flash Memory Summit (FMS) 2022](https://blocksandfiles.com/2022/08/08/samsung-lays-tasty-flash-eggs-at-fms-2022/)
 draft: false
