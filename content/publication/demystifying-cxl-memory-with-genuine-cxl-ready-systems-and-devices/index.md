@@ -28,7 +28,9 @@ abstract: The high demand for memory capacity in modern datacenters has led to
 draft: false
 url_pdf: https://arxiv.org/abs/2303.15375
 featured: true
-summary: asd
+summary: In this work, we explore CXL memory's performance characterization on a
+  state-of-the-art experimental platform and study the impact of CXL memory on
+  end-to-end applications with different offloading and interleaving policies.
 url_dataset: ""
 url_project: ""
 publication_short: ""
