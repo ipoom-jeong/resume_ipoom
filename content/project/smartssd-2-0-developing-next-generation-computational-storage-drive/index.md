@@ -2,8 +2,7 @@
 title: "SmartSSD 2.0: Developing Next-Generation Computational Storage Drive"
 date: 2020-09-01T00:00:00.000Z
 summary: >-
-  * [Research and development project in Samsung
-  Electronics](https://news.samsung.com/global/samsung-electronics-develops-second-generation-smartssd-computational-storage-drive-with-upgraded-processing-functionality)
+  * ﻿Research and development project at Samsung Electronics
 
   * D﻿esigning  SoC (system-on-chip) for the next-generation CSD (computational storage drive)
 
