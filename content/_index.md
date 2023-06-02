@@ -188,14 +188,14 @@ sections:
         #### **[2021.11]  Encouragement Prize at the Outstanding Patent Award**
         * Memory Device Including a Plurality of Area Having Different Refresh Periods, Memory Controller Controlling the Same and Memory System Including the Same
         * US patent, Registered in 2022.03.15 (Application no: 16/988478, Registration no: 11276452)
-        * [2020.02]  Bronze Prize at the 26th Samsung Humantech Paper Award
-            * Ipoom Jeong and Seihoon Park
-            * CASINO Core Microarchitecture: Generating Out-of-Order Schedules Using Cascaded In-Order Scheduling Windows
-        * [2019.11]  Excellent Graduate Researcher Scholarship
-        * [2018.02]  Encouragement Prize at the 24th Samsung Humantech Paper Award
-            * Ipoom Jeong and Changmin Lee
-            * Cg-CMT: Expanding Instruction Window via Coarse-Grained Instruction Commit
-        * [2010.03 - 2014.02]  National Scholarship for Science and Engineering
+        #### **[2020.02]  Bronze Prize at the 26th Samsung Humantech Paper Award**
+        * Ipoom Jeong and Seihoon Park
+        * CASINO Core Microarchitecture: Generating Out-of-Order Schedules Using Cascaded In-Order Scheduling Windows
+        #### **[2019.11]  Excellent Graduate Researcher Scholarship**
+        #### **[2018.02]  Encouragement Prize at the 24th Samsung Humantech Paper Award**
+        * Ipoom Jeong and Changmin Lee
+        * Cg-CMT: Expanding Instruction Window via Coarse-Grained Instruction Commit
+        #### **[2010.03 - 2014.02]  National Scholarship for Science and Engineering**
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -205,14 +205,14 @@ sections:
       title: Activities
       subtitle: ""
       text: |2-
-        * [2023.06] Tutorial Organizer
-            * On-chip Accelerators in 4th Gen Intel® Xeon® Scalable Processors: Features, Performance, Use Cases, and Future!
-            * 50th International Symposium on Computer Architecture (ISCA 2023)
-        * [2022.06]  Conference Session Chair
-            * Artificial Intelligence Circuits and Systems 2022 (AICAS 2022)
-        * [2018.02]  External Reviewer
-            * IEEE Transactions on Emerging Topics in Computing (TETC), 2022, 2023
-            * Microprocessors and Microsystems, 2022
+        #### **[2023.06] Tutorial Organizer**
+        * On-chip Accelerators in 4th Gen Intel® Xeon® Scalable Processors: Features, Performance, Use Cases, and Future!
+        * 50th International Symposium on Computer Architecture (ISCA 2023)
+        #### **[2022.06]  Conference Session Chair**
+        * Artificial Intelligence Circuits and Systems 2022 (AICAS 2022)
+        #### **[2018.02]  External Reviewer**
+        * IEEE Transactions on Emerging Topics in Computing (TETC), 2022, 2023
+        * Microprocessors and Microsystems, 2022
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
