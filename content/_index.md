@@ -78,16 +78,6 @@ sections:
     design:
       columns: '2'
   - block: collection
-    id: events
-    content:
-      title: Recent & Upcoming Events
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
-  - block: collection
     id: posts
     content:
       title: Recent Posts
@@ -114,6 +104,16 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
+  - block: collection
+    id: events
+    content:
+      title: Recent & Upcoming Events
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
   - block: collection
     id: featured
     content:
