@@ -4,7 +4,7 @@ date: 2014-07-01T00:00:00.000Z
 summary: >-
   * Research project at Yonsei University joint with LG Electronics
 
-  * Inter- and Intra-core optimization techniques for higher energy-efficiency of a mobile APs (application processors)
+  * Inter- and Intra-core optimization techniques for higher energy-efficiency of a mobile APs (Application Processors)
 draft: false
 featured: false
 image:
