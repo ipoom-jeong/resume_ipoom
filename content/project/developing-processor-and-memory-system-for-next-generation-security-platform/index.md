@@ -5,7 +5,7 @@ summary: \-﻿ Joint research project in Yonsei University with Samsung Electron
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: security.webp
   focal_point: Smart
   preview_only: false
 ---
