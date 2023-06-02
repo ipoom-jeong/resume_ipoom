@@ -185,9 +185,7 @@ sections:
       title: Scholarships and Awards
       subtitle: ""
       text: |2-
-      ---
-      [2021.11]  Encouragement Prize at the Outstanding Patent Award
-      ---
+        * **[2021.11]  Encouragement Prize at the Outstanding Patent Award**
             * Memory Device Including a Plurality of Area Having Different Refresh Periods, Memory Controller Controlling the Same and Memory System Including the Same
             * US patent, Registered in 2022.03.15 (Application no: 16/988478, Registration no: 11276452)
         * [2020.02]  Bronze Prize at the 26th Samsung Humantech Paper Award
