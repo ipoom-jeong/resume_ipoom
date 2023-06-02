@@ -10,7 +10,7 @@ draft: false
 featured: false
 tags:
   - SmartSSD
-  - ComputationalStorageDrive
+  - Computational Storage Drive
 image:
   filename: featured.jpg
   focal_point: Smart
