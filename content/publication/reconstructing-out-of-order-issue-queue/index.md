@@ -29,9 +29,10 @@ tags:
   - Microarchitecture
   - Dynamic Scheduling
   - Energy Efficiency
-summary: "In this work, we propose a novel microarchitecture named Ballerino,
-  built upon three key principles that drive dynamic scheduling: instruction
-  readiness, memory/register-dependences, and oldest-first selection."
+summary: "In this work, we propose an energy-efficient microarchitecture named
+  Ballerino, built upon three key principles that drive dynamic scheduling:
+  instruction readiness, memory/register-dependences, and oldest-first
+  selection."
 url_dataset: ""
 url_project: ""
 publication_short: ""
