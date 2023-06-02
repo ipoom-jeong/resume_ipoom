@@ -29,7 +29,9 @@ abstract: As semiconductor power density is no longer constant with the
 draft: false
 url_pdf: https://arxiv.org/abs/2305.02480
 featured: true
-summary: asd
+summary: This paper sets out to introduce the latest features supported by Intel
+  DSA (Data Streaming Accelerator), deep-dive into its versatility, and analyze
+  its throughput benefits through a comprehensive evaluation.
 url_dataset: ""
 url_project: ""
 publication_short: ""
