@@ -1,6 +1,6 @@
 ---
 title: Developing Low-Power Mobile Computing Platform
-date: 2023-06-02T03:07:47.589Z
+date: 2014-07-01T00:00:00.000Z
 draft: false
 featured: false
 image:
