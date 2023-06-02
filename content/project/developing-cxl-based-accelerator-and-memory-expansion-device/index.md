@@ -1,7 +1,9 @@
 ---
 title: Developing CXL-Based Accelerator and Memory Expansion Device
 date: 2020-03-01T00:00:00.000Z
-summary: \-﻿ Research and development project in Samsung Electronics
+summary: |-
+  * Research and development project at Samsung Electronics
+  *
 draft: false
 featured: false
 tags:
