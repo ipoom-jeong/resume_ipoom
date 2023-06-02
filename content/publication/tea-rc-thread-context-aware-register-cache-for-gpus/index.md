@@ -30,7 +30,7 @@ abstract: "Graphics processing units (GPUs) achieve high throughput by
   bits of register ID to compute the cache index."
 draft: false
 url_pdf: https://ieeexplore.ieee.org/abstract/document/8807276
-featured: true
+featured: false
 tags:
   - GPU
   - Microarchitecture
