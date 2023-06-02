@@ -31,7 +31,10 @@ tags:
   - Microarchitecture
   - Dynamic Scheduling
   - Energy Efficiency
-summary: asd
+summary: In this work, we propose a CASINO core microarchitecture that
+  dynamically and speculatively generates out-of-order instruction issue
+  schedules with complexity close to in-order scheduling, leveraging CAScaded
+  IN-Order scheduling windows.
 url_dataset: ""
 url_project: ""
 publication_short: ""
