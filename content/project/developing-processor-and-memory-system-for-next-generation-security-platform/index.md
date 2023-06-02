@@ -4,7 +4,7 @@ date: 2017-09-01T00:00:00.000Z
 summary: >-
   * Research project at Yonsei University joint with Samsung Electronics 
 
-  * Developing ASIPs (Application-Specific Instruction-set Processors) for cryptographic algorithms (e.g., AES, SHA-256, and RSA-2048)
+  * Developing ASIPs (Application-Specific Instruction-Set Processors) for cryptographic algorithms (e.g., AES, SHA-256, and RSA-2048)
 draft: false
 featured: false
 tags:
