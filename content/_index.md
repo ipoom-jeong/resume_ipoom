@@ -53,7 +53,7 @@ sections:
           date_end: '2021-08-31'
           description: |2-
               * Advanced Solution Development Team, Memory Business
-              * Research Topics: Compute eXpress Link (CXL)-Based Accelerator/Memory Expansion Device Architectures, Computational Storage Drive (SmartSSD 2.0) SoC Architecture
+              * Research Topics: CXL-Based Accelerator/Memory Expansion Device Architectures, Computational Storage Drive (SmartSSD 2.0) SoC Architecture
         - title: Research Assistant
           company: Yonsei University
           company_url: 'https://www.yonsei.ac.kr/'
