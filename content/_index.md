@@ -33,7 +33,7 @@ sections:
           description: |2-
               * Coordinated Science Lab (CSL)
               * Principal Investigator (PI): Professor Nam Sung Kim
-              * Research Topics: Architectural Optimizations for Datacenters, Smart-I/O Devices
+              * Research Topics: Architectural Optimizations for Datacenters, CXL-Based Device Architecture, Smart-I/O Devices
         - title: Research Professor
           company: Yonsei University
           company_url: 'https://www.yonsei.ac.kr/'
