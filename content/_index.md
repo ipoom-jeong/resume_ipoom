@@ -221,8 +221,8 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Thank you for visiting Ipoom Jeong's website!
+      #text: |-
+      #  Thank you for visiting Ipoom Jeong's website!
       # Contact (add or remove contact options as necessary)
       email: ipoom@illinois.edu
       phone: +1 (217) 778-8808
@@ -257,13 +257,13 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
+      #form:
+      #  provider: netlify
+      #  formspree:
+      #    id:
+      #  netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      #    captcha: false
     design:
       columns: '2'
 ---
