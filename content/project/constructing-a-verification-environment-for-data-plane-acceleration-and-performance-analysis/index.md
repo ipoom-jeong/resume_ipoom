@@ -2,7 +2,7 @@
 title: Constructing a Verification Environment for Data Plane Acceleration and
   Performance Analysis
 date: 2015-07-01T00:00:00.000Z
-summary: >-
+summary: 2|-
   * Research project at Yonsei University Joint with ETRI (2015.07 - 2015.12)
   * Developing and verifying optimization techniques for improving data plane acceleration in virtualized network environment
 draft: false
