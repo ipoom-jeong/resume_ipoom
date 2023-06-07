@@ -86,7 +86,7 @@ sections:
               * Embedded Systems and Computer Architecture Lab (eSCaL)
               * Advisor: Professor Won Woo Ro
               * Research Topics: Exploiting Back-end Fusion in Multi-Core Processors
-  design:
+    design:
       columns: '2'
   - block: collection
     id: posts
