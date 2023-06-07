@@ -80,8 +80,8 @@ sections:
           company_url: 'https://www.yonsei.ac.kr/'
           company_logo: ''
           location: Seoul, Korea
-          date_start: '2014-03-01'
-          date_end: '2020-02-28'
+          date_start: '2013-08-01'
+          date_end: '2014-02-28'
           description: |2-
               * Embedded Systems and Computer Architecture Lab (eSCaL)
               * Advisor: Professor Won Woo Ro
