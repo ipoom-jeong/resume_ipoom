@@ -75,7 +75,6 @@ sections:
           description: |2-
               * Undergraduate courses: Computer Architecture (EEE3530, 14-1st, 16-1st), Electrical and Electronic Engineering Experiments: Fundamentals (EEE2111, 14-2nd, 15-2nd), Graduation Research (15-1st)
               * Graduate courses: Advanced Computer Architecture (E6501, 17-1st), System Design and Applications Lab (EEE6611, 18-1st, 18-2nd)
-    design:
         - title: Undergraduate Research Assistant
           company: Yonsei University
           company_url: 'https://www.yonsei.ac.kr/'
@@ -87,6 +86,7 @@ sections:
               * Embedded Systems and Computer Architecture Lab (eSCaL)
               * Advisor: Professor Won Woo Ro
               * Research Topics: Exploiting Back-end Fusion in Multi-Core Processors
+   design:
       columns: '2'
   - block: collection
     id: posts
