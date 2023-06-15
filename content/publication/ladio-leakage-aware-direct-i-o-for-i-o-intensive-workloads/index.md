@@ -1,7 +1,7 @@
 ---
 title: "LADIO: Leakage-Aware Direct I/O for I/O-Intensive Workloads"
 publication_types:
-  - "0"
+  - "2"
 authors:
   - admin
   - Jiaqi Lou
@@ -9,6 +9,7 @@ authors:
   - Yongjoo Park
   - Yifan Yuan
   - and Nam Sung Kim
+publication: IEEE Computer Architecture Letters
 abstract: >-
   The advancement in I/O technology has posed an unprecedented demand for
   high-performance processing on I/O data,
@@ -30,9 +31,21 @@ abstract: >-
   throughput of network-intensive applications by 20% while maintaining that of storage-intensive applications.
 draft: false
 featured: false
+tags:
+  - DDIO
+  - Datacenter
+  - Last-LevelCache
+  - I/O
+  - Storage
+  - Network
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
+summary: >-
+  This paper presents LADIO, an adaptive Data Direct I/O (DDIO) control
+  mechanism – LADIO – to alleviate the
+
+  inter-I/O interference problems in modern datacenter server systems.
 date: 2023-06-15T14:40:04.356Z
 ---
