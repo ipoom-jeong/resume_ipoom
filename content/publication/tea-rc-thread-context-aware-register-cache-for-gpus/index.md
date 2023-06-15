@@ -29,7 +29,7 @@ abstract: "Graphics processing units (GPUs) achieve high throughput by
   conventional register cache that concatenates three bits of warp ID and five
   bits of register ID to compute the cache index."
 draft: false
-url_pdf: https://ieeexplore.ieee.org/abstract/document/8807276
+url_pdf: https://ieeexplore.ieee.org/document/9848819
 featured: false
 tags:
   - GPU
