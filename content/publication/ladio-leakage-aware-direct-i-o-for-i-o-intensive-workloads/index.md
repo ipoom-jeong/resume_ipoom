@@ -34,7 +34,7 @@ featured: true
 tags:
   - DDIO
   - Datacenter
-  - Last-LevelCache
+  - Last-Level Cache
   - I/O
   - Storage
   - Network
@@ -44,7 +44,7 @@ image:
   preview_only: false
 summary: >-
   This paper presents LADIO, an adaptive Data Direct I/O (DDIO) control
-  mechanism – LADIO – to alleviate the
+  mechanism to alleviate the
 
   inter-I/O interference problems in modern datacenter server systems.
 date: 2023-06-15T00:00:00.000Z
