@@ -54,7 +54,7 @@ sections:
           description: |2-
               * Advanced Solution Development Team, Memory Business
               * Research Topics: CXL-Based Accelerator/Memory Expansion Device Architectures, Computational Storage Drive (SmartSSD 2.0) SoC Architecture
-        - title: Research Assistant
+        - title: Graduate Research Assistant
           company: Yonsei University
           company_url: 'https://www.yonsei.ac.kr/'
           company_logo: ''
