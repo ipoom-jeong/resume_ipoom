@@ -4,9 +4,11 @@ publication_types:
   - "2"
 authors:
   - admin
-  - Changmin Lee
-  - Keunsoo Kim
-  - Won Woo Ro
+  - Jiaqi Lou
+  - Yongseok Son
+  - Yongjoo Park
+  - Yifan Yuan
+  - Nam Sung Kim
 publication: IEEE Computer Architecture Letters (Accepted)
 abstract: >-
   The advancement in I/O technology has posed an unprecedented demand for
