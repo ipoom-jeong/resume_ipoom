@@ -30,7 +30,7 @@ abstract: >-
 
   throughput of network-intensive applications by 20% while maintaining that of storage-intensive applications.
 draft: false
-featured: false
+featured: true
 tags:
   - DDIO
   - Datacenter
