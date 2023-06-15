@@ -8,7 +8,7 @@ authors:
   - Yongseok Son
   - Yongjoo Park
   - Yifan Yuan
-  - and Nam Sung Kim
+  - Nam Sung Kim
 publication: IEEE Computer Architecture Letters
 abstract: >-
   The advancement in I/O technology has posed an unprecedented demand for
@@ -47,5 +47,5 @@ summary: >-
   mechanism – LADIO – to alleviate the
 
   inter-I/O interference problems in modern datacenter server systems.
-date: 2023-06-15T14:40:04.356Z
+date: 2023-06-15T00:00:00.000Z
 ---
