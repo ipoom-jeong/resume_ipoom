@@ -7,7 +7,7 @@ authors:
   - Jiwon Lee
   - Myung Kuk Yoon
   - Won Woo Ro
-publication: 2022 55th IEEE/ACM International Symposium on Microarchitecture (MICRO)
+publication: 55th IEEE/ACM International Symposium on Microarchitecture (MICRO)
 abstract: >-
   Out-of-order cores provide high performance at the cost of energy efficiency.
   Dynamic scheduling is one of the major contributors to this: generating highly
