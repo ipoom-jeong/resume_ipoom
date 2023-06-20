@@ -32,8 +32,7 @@ url_source: ""
 url_video: ""
 title: Dynamic Warp Scheduler Selection Policy Using Linear Regression for GPUs
 doi: ""
-publication: 2017 International Conference on Electronics, Information and
-  Communication (ICEIC)
+publication: International Conference on Electronics, Information and Communication (ICEIC)
 featured: false
 tags:
   - GPU
