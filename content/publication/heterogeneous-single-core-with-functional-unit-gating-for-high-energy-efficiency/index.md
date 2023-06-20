@@ -25,7 +25,7 @@ url_video: ""
 title: Heterogeneous Core Microarchitecture with Functional Unit Gating for High
   Energy Efficiency
 doi: ""
-publication: 2016 Annual Summer Conference of IEIE
+publication: Annual Summer Conference of IEIE
 featured: false
 tags:
   - CPU
