@@ -37,12 +37,7 @@ authors:
   - and Nam Sung Kim (UIUC)
 url_video: ""
 url_slides: ""
-address:
-  street: 8701 World Center Dr
-  city: Orlando
-  region: FL
-  postcode: "32821"
-  country: United States
+address: ""
 event: International Symposium on Computer Architecture (ISCA) 2023 Tutorial
 publishDate: 2017-01-01T00:00:00.000Z
 tags: []
