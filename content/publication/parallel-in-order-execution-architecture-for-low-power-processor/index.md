@@ -32,7 +32,7 @@ url_source: ""
 url_video: ""
 title: Parallel In-Order Execution Architecture for Low-Power Processor
 doi: ""
-publication: 2017 International SoC Design Conference (ISOCC)
+publication: International SoC Design Conference (ISOCC)
 featured: false
 tags:
   - CPU
