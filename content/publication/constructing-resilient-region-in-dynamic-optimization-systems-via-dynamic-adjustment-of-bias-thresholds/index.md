@@ -28,7 +28,7 @@ url_video: ""
 title: Constructing Resilient Region in Dynamic Optimization Systems via Dynamic
   Adjustment of Bias Thresholds
 doi: ""
-publication: 2018 IEEE International Conference On Consumer Electronics Asia (ICCE-ASIA)
+publication: IEEE International Conference On Consumer Electronics Asia (ICCE-ASIA)
 featured: false
 tags:
   - CPU
