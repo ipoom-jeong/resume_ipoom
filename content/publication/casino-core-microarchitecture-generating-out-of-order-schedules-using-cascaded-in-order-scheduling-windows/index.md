@@ -8,8 +8,7 @@ authors:
   - Seihoon Park
   - Changmin Lee
   - Won Woo Ro
-publication: 2020 IEEE International Symposium on High Performance Computer
-  Architecture (HPCA)
+publication: IEEE International Symposium on High Performance Computer Architecture (HPCA)
 abstract: >-
   The performance gap between in-order (InO) and out-of-order (OoO) cores comes
   from the ability to dynamically create highly optimized instruction issue
