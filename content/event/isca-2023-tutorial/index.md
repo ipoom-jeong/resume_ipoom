@@ -17,7 +17,7 @@ abstract: >-
 
 
   This tutorial provides an overview of the latest built-in accelerators -- Data Streaming Accelerator (DSA), In-memory Analytics Accelerator (IAA), QuickAssist Technology (QAT), and Dynamic Load Balancer (DLB) -- and their rich functionalities supported by Intel 4th Gen Xeon Scalable Processors. With several flexible programming models and software libraries, these accelerators have been proven to be beneficial to a wide range of data center infrastructures and applications. In addition, the hands-on labs of this tutorial will take Intel DSA as an example to provide the attendees with the basic knowledge of how to configure, invoke, and make the most out of it with both microbenchmarks and real applications.
-location: TBD
+location: Magnolia 14 at the Marriott World Center - Orlando, FL
 date: 2023-06-17T13:00:00.000Z
 all_day: false
 slides: null
@@ -29,7 +29,7 @@ event_url: https://intelonchipaccel.web.illinois.edu/
 featured: false
 authors:
   - Yifan Yuan (Intel)
-  - Jiayu Hu (Intel) 
+  - Jiayu Hu (Intel)
   - Ren Wang (Intel)
   - Narayan Ranganathan (Intel)
   - Reese Kuper (UIUC)
