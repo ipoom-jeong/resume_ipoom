@@ -9,7 +9,7 @@ authors:
   - Yongjoo Park
   - Yifan Yuan
   - Nam Sung Kim
-publication: IEEE Computer Architecture Letters (Accepted)
+publication: IEEE Computer Architecture Letters (CAL 2023), Accepted
 abstract: >-
   The advancement in I/O technology has posed an unprecedented demand for
   high-performance processing on I/O data,
