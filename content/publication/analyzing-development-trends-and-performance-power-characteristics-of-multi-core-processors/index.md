@@ -23,7 +23,7 @@ url_video: ""
 title: Analyzing Development Trends and Performance/Power Characteristics of
   Multi-Core Processors
 doi: ""
-publication: 2016 Annual Summer Conference of IEIE
+publication: Annual Summer Conference of IEIE
 featured: false
 tags:
   - CPU
