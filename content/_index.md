@@ -221,7 +221,7 @@ sections:
         * 50th International Symposium on Computer Architecture (ISCA 2023)
         #### **[2022.06]  Conference Session Chair**
         * Artificial Intelligence Circuits and Systems 2022 (AICAS 2022)
-        #### **[2018.02]  External Reviewer**
+        #### **External Reviewer**
         * ACM Transactions on Architecture and Code Optimization (TACO), 2023
         * IEEE Transactions on Emerging Topics in Computing (TETC), 2022, 2023
         * Microprocessors and Microsystems, 2022
