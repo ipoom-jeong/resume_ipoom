@@ -216,10 +216,10 @@ sections:
       title: Activities
       subtitle: ""
       text: |2-
-        #### **[2023.06] Tutorial Organizer**
+        #### **Tutorial Organizer**
         * On-chip Accelerators in 4th Gen Intel® Xeon® Scalable Processors: Features, Performance, Use Cases, and Future!
         * 50th International Symposium on Computer Architecture (ISCA 2023)
-        #### **[2022.06]  Conference Session Chair**
+        #### **Conference Session Chair**
         * Artificial Intelligence Circuits and Systems (AICAS 2022)
         #### **External Reviewer**
         * ACM Transactions on Architecture and Code Optimization (TACO), 2023
