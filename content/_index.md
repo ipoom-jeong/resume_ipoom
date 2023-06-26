@@ -220,7 +220,7 @@ sections:
         * On-chip Accelerators in 4th Gen Intel® Xeon® Scalable Processors: Features, Performance, Use Cases, and Future!
         * 50th International Symposium on Computer Architecture (ISCA 2023)
         #### **[2022.06]  Conference Session Chair**
-        * Artificial Intelligence Circuits and Systems 2022 (AICAS 2022)
+        * Artificial Intelligence Circuits and Systems (AICAS 2022)
         #### **External Reviewer**
         * ACM Transactions on Architecture and Code Optimization (TACO), 2023
         * IEEE Transactions on Emerging Topics in Computing (TETC), 2022, 2023
