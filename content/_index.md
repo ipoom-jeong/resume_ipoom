@@ -222,9 +222,9 @@ sections:
         #### **Conference Session Chair**
         * Artificial Intelligence Circuits and Systems (AICAS 2022)
         #### **External Reviewer**
-        * ACM Transactions on Architecture and Code Optimization (TACO), 2023
-        * IEEE Transactions on Emerging Topics in Computing (TETC), 2022, 2023
-        * Microprocessors and Microsystems, 2022
+        * ACM Transactions on Architecture and Code Optimization (TACO)
+        * IEEE Transactions on Emerging Topics in Computing (TETC)
+        * Microprocessors and Microsystems
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
