@@ -21,12 +21,11 @@ abstract: TBD
 draft: false
 url_pdf: https://arxiv.org/abs/2303.15375
 featured: true
-summary: In this work, we first evaluate true CXL-ready systems based on the
-  latest 4th-generation Intel Xeon CPU with three CXL memory devices from
-  different manufacturers, which divulges important differences between emulated
-  and true CXL memory devices. Based on these observations, we propose a
-  CXL-memory-aware dynamic page allocation policy, Caption to use CXL memory
-  more efficiently.
+summary: In this work, we evaluate true CXL-ready systems based on the latest
+  4th-generation Intel Xeon CPU with three CXL memory devices from different
+  manufacturers, which divulges important differences between emulated and true
+  CXL memory devices. Based on these observations, we propose a CXL-memory-aware
+  dynamic page allocation policy, Caption, to use CXL memory more efficiently.
 url_dataset: ""
 url_project: ""
 publication_short: ""
