@@ -11,7 +11,7 @@ authors:
   - Houxiang Ji
   - Siddharth Agarwal
   - Jiaqi Lou
-  - \textbf{Ipoom Jeong}
+  - Ipoom Jeong
   - Ren Wang
   - Jung Ho Ahn
   - Tianyin Xu
