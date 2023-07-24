@@ -11,12 +11,12 @@ authors:
   - Houxiang Ji
   - Siddharth Agarwal
   - Jiaqi Lou
-  - Ipoom Jeong
+  - admin
   - Ren Wang
   - Jung Ho Ahn
   - Tianyin Xu
   - Nam Sung Kim
-publication: ""
+publication: IEEE/ACM International Symposium on Microarchitecture (MICRO)
 abstract: TBD
 draft: false
 url_pdf: https://arxiv.org/abs/2303.15375
