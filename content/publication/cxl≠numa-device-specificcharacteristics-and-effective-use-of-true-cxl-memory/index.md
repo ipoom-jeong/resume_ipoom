@@ -19,7 +19,7 @@ authors:
 publication: IEEE/ACM International Symposium on Microarchitecture (MICRO)
 abstract: TBD
 draft: false
-url_pdf:
+url_pdf: null
 featured: true
 summary: In this work, we evaluate true CXL-ready systems based on the latest
   4th-generation Intel Xeon CPU with three CXL memory devices from different
