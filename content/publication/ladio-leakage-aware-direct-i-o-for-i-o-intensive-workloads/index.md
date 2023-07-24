@@ -46,6 +46,6 @@ image:
   preview_only: false
 summary: This paper presents LADIO (Leakage-Aware Direct I/O), an adaptive
   direct cache access mechanism (a.k.a., Data Direct I/O, DDIO) to alleviate the
-  inter-I/O interference problems in modern datacenter server systems.
+  inter-I/O interference problem in modern datacenter servers.
 date: 2023-06-15T00:00:00.000Z
 ---
