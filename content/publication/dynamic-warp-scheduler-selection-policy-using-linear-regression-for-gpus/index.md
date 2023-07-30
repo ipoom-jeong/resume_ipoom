@@ -2,7 +2,7 @@
 publication_types:
   - "1"
 authors:
-  - Hyunjune Shin
+  - Hyunjun Shin
   - Kyungmin Lee
   - admin
   - Jong Hyun Park
