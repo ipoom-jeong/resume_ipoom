@@ -4,10 +4,10 @@ role: Postdoctoral Research Associate
 bio: My research interests include CPU/GPU microarchitectures, memory/storage
   system designs, and smart-I/O devices
 interests:
-  - High-Performance Computer Systems
   - Energy-Efficient CPU/GPU Microarchitectures
-  - Memory/Storage System Designs
-  - Smart-I/O Devices
+  - High-Performance System Architectures
+  - Near-Data Processing (e.g., PIM, SmartSSD, and SmartNIC)
+  - Interconnect Technologies (e.g., CXL)
 social:
   - icon: envelope
     icon_pack: fas
