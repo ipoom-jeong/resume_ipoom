@@ -44,4 +44,4 @@ highlight_name: true
 first_name: Ipoom
 email: ""
 ---
-Ipoom Jeong is a Postdoctoral Research Associate at the University of Illinois Urbana-Champaign and a member of IEEE. He received his Ph.D. degree from the Department of Electrical and Electronic Engineering at Yonsei University, South Korea, in 2020. His research experience includes a Hardware Engineer in Memory Business at Samsung Electronics (2020-2021) and a Research Professor at the Department of Electrical and Electronic Engineering at Yonsei University (2021-2022).
+Ipoom Jeong is a Postdoctoral Research Associate at the University of Illinois Urbana-Champaign (UIUC) and a member of the Institute of Electrical and Electronics Engineers (IEEE). He earned his Ph.D. degree from the Department of Electrical and Electronic Engineering at Yonsei University in 2020. His research expertise encompasses roles such as a Hardware Engineer in the Memory Business division at Samsung Electronics (2020-2021) and a Research Professor at the Department of Electrical and Electronic Engineering at Yonsei University (2021-2022).
