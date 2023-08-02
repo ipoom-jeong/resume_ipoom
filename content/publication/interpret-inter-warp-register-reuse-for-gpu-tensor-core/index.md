@@ -2,11 +2,10 @@
 publication_types:
   - "1"
 authors:
-  - 	Hongju Kal
-  - Cheonjun Park
-  - Hyunwuk Lee
-  - Jiwon Lee
-  - Ipoom Jeong
+  - Jae Seok Kwak
+  - Myung Kuk Yoon
+  - admin
+  - Seunghyun Jin
   - Won Woo Ro
 publication: The 32nd International Conference on Parallel Architectures and
   Compilation Techniques (PACT)
@@ -23,10 +22,11 @@ url_video: ""
 url_tutorial: ""
 title: "INTERPRET: Inter-Warp Register Reuse for GPU Tensor Core"
 tags:
-  - Processing-in-memory
-  - n
+  - GPGPU
+  - Tensor core
+  - Neural network
+  - Register files
 categories:
-  - GPU
 image:
   filename: ""
   focal_point: SMART
