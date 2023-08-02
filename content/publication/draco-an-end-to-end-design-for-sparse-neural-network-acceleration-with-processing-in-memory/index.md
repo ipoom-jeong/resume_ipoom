@@ -2,10 +2,11 @@
 publication_types:
   - "1"
 authors:
-  - Jae Seok Kwak
-  - Myung Kuk Yoon
+  - Hongju Kal
+  - Cheonjun Park
+  - Hyunwuk Lee
+  - Jiwon Lee
   - admin
-  - Seunghyun Jin
   - Won Woo Ro
 publication: The 32nd International Conference on Parallel Architectures and
   Compilation Techniques (PACT)
@@ -23,10 +24,9 @@ url_tutorial: ""
 title: "Draco: An End-to-End Design for Sparse Neural Network Acceleration with
   Processing-in-Memory"
 tags:
-  - GPGPU
-  - Tensor core
+  - Processing-In-Memory
   - Neural network
-  - Register files
+  - Model compression
 categories: null
 image:
   filename: ""
