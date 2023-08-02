@@ -8,8 +8,8 @@ authors:
   - Jiwon Lee
   - admin
   - Won Woo Ro
-publication: International Conference on Parallel Architectures and Compilation
-  Techniques (PACT, accepted)
+publication: ACM International Conference on Parallel Architectures and
+  Compilation Techniques (PACT, accepted)
 abstract: TBD
 draft: false
 url_pdf: null
