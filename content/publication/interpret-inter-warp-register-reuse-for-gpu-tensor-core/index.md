@@ -12,7 +12,7 @@ publication: The 32nd International Conference on Parallel Architectures and
 abstract: TBD
 draft: false
 url_pdf: null
-featured: true
+featured: false
 summary: null
 url_dataset: ""
 url_project: ""
@@ -26,7 +26,7 @@ tags:
   - Tensor core
   - Neural network
   - Register files
-categories:
+categories: null
 image:
   filename: ""
   focal_point: SMART
