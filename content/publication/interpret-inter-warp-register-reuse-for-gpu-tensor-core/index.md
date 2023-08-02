@@ -7,8 +7,8 @@ authors:
   - admin
   - Seunghyun Jin
   - Won Woo Ro
-publication: The 32nd International Conference on Parallel Architectures and
-  Compilation Techniques (PACT)
+publication: International Conference on Parallel Architectures and Compilation
+  Techniques (PACT)
 abstract: TBD
 draft: false
 url_pdf: null
