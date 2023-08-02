@@ -16,7 +16,7 @@ authors:
   - Jung Ho Ahn
   - Tianyin Xu
   - Nam Sung Kim
-publication: IEEE/ACM International Symposium on Microarchitecture (MICRO)
+publication: IEEE/ACM International Symposium on Microarchitecture (MICRO, accepted)
 abstract: TBD
 draft: false
 url_pdf: null
