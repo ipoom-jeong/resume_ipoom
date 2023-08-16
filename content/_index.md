@@ -205,7 +205,7 @@ sections:
         * CASINO Core Microarchitecture: Generating Out-of-Order Schedules Using Cascaded In-Order Scheduling Windows
         #### **[2019.11]  Excellent Graduate Researcher Scholarship (Yonsei University)**
         #### **[2018.02]  Encouragement Prize at the 24th Samsung Humantech Paper Award (Samsung Electronics)**
-        * Ipoom Jeong, Changmin Lee
+        * admin, Changmin Lee
         * Cg-CMT: Expanding Instruction Window via Coarse-Grained Instruction Commit
         #### **[2010.03 - 2014.02]  National Scholarship for Science and Engineering (KOSAF)**
     design:
