@@ -40,6 +40,7 @@ tags:
   - Storage
   - Network
   - CPU
+doi: 10.1109/LCA.2023.3290427
 image:
   filename: featured
   focal_point: Smart
