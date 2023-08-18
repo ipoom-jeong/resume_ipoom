@@ -5,11 +5,9 @@ publication_types:
   - "2"
 authors:
   - admin
-  - Jiaqi Lou
-  - Yongseok Son
-  - Yongjoo Park
-  - Yifan Yuan
+  - Eunbi Jeong
   - Nam Sung Kim
+  - Myung Kuk Yoon
 publication: IEEE Embedded Systems Letters (ESL, accepted)
 abstract: >
   Recent GPUs provisioned with large register files cannot fully utilize the
@@ -31,16 +29,13 @@ abstract: >
 
   Together, these techniques synergistically improve the register bank utilization, demonstrating a 14.1% improvement in performance and 11.8% reduction in register file energy consumption compared to the state-of-the-art GPUs.
 draft: false
-url_pdf: https://ieeexplore.ieee.org/document/10171430
+url_pdf: 
 featured: true
 tags:
-  - DDIO
-  - Datacenter
-  - Last-Level Cache
-  - I/O
-  - Storage
-  - Network
-  - CPU
+  - GPU
+  - Microarchitecture
+  - Register Files
+  
 image:
   filename: featured
   focal_point: Smart
