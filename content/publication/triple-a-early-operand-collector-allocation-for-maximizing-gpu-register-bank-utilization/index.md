@@ -30,7 +30,7 @@ abstract: >
   Together, these techniques synergistically improve the register bank utilization, demonstrating a 14.1% improvement in performance and 11.8% reduction in register file energy consumption compared to the state-of-the-art GPUs.
 draft: false
 url_pdf: null
-featured: true
+featured: false
 tags:
   - GPU
   - Microarchitecture
