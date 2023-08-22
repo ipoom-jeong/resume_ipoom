@@ -8,7 +8,7 @@ authors:
   - Eunbi Jeong
   - Nam Sung Kim
   - Myung Kuk Yoon
-publication: IEEE Embedded Systems Letters (ESL, accepted)
+publication: IEEE Embedded Systems Letters (early access)
 abstract: >
   Recent GPUs provisioned with large register files cannot fully utilize the
   bandwidth between the register files and execution pipelines, as the current
@@ -29,7 +29,7 @@ abstract: >
 
   Together, these techniques synergistically improve the register bank utilization, demonstrating a 14.1% improvement in performance and 11.8% reduction in register file energy consumption compared to the state-of-the-art GPUs.
 draft: false
-url_pdf: null
+url_pdf: https://ieeexplore.ieee.org/document/10226394
 featured: false
 tags:
   - GPU
