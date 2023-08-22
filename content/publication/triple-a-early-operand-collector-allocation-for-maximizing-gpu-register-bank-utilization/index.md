@@ -51,6 +51,7 @@ abstract: >-
   file energy consumption compared to the state-of-the-art GPUs.
 draft: false
 url_pdf: https://ieeexplore.ieee.org/document/10226394
+doi: 10.1109/LES.2023.3307622
 featured: false
 tags:
   - GPU
