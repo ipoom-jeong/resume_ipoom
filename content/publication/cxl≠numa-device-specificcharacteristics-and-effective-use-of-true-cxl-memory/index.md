@@ -44,7 +44,7 @@ image:
   focal_point: SMART
   preview_only: false
   caption: CXL memory module overview
-date: 2023-10-28T18:08:56.908Z
+date: 2023-08-28T18:08:56.908Z
 url_slides: ""
 url_poster: ""
 url_code: ""
