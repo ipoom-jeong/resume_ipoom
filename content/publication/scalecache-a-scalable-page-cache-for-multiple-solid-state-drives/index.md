@@ -11,7 +11,7 @@ authors:
   - Sungjin Lee
   - Nam Sung Kim
   - Yongseok Son
-publication: ACM SIGOPS Eurosys (accepted)
+publication: ACM SIGOPS European Conference on Computer Systems (EuroSys 2024, accepted)
 abstract: TBD
 draft: false
 url_pdf: null
