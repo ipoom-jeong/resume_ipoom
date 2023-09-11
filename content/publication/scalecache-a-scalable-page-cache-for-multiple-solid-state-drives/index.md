@@ -15,7 +15,7 @@ publication: ACM SIGOPS European Conference on Computer Systems (EuroSys, accept
 abstract: TBD
 draft: false
 url_pdf: null
-featured: true
+featured: false
 summary: ""
 url_dataset: ""
 url_project: ""
