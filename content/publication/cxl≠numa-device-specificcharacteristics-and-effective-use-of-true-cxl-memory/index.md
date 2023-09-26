@@ -32,8 +32,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 url_tutorial: ""
-title: "CXL≠NUMA: Device-Specific Characteristics and Effective Use of True CXL
-  Memory"
+title: Demystifying CXL Memory with Genuine CXL-Ready Systems and Devices
 tags:
   - CXL
   - memory
