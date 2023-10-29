@@ -8,7 +8,7 @@ authors:
   - Seunghyun Jin
   - Won Woo Ro
 publication: ACM International Conference on Parallel Architectures and
-  Compilation Techniques (PACT, accepted)
+  Compilation Techniques (PACT)
 abstract: TBD
 draft: false
 url_pdf: null
@@ -32,7 +32,7 @@ image:
   focal_point: SMART
   preview_only: false
   caption: ""
-date: 2023-08-21T07:19:26.054Z
+date: 2023-10-25T07:19:26.054Z
 url_slides: ""
 url_poster: ""
 url_code: ""
