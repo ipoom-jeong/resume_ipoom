@@ -16,7 +16,7 @@ authors:
   - Jung Ho Ahn
   - Tianyin Xu
   - Nam Sung Kim
-publication: IEEE/ACM International Symposium on Microarchitecture (MICRO, accepted)
+publication: IEEE/ACM International Symposium on Microarchitecture (MICRO)
 abstract: >-
   The ever-growing demands for memory with larger capacity and higher bandwidth
   have driven recent innovations on memory expansion and disaggregation
@@ -49,7 +49,7 @@ image:
   focal_point: SMART
   preview_only: false
   caption: CXL memory module overview
-date: 2023-08-28T18:08:56.908Z
+date: 2023-10-25T18:08:56.908Z
 url_slides: ""
 url_poster: ""
 url_code: ""
