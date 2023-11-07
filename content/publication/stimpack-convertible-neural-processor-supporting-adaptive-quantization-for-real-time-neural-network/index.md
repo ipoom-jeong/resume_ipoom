@@ -4,14 +4,15 @@ title: "Stimpack: Convertible Neural Processor Supporting Adaptive Quantization
 publication_types:
   - "2"
 authors:
+  - Hongju Kal
+  - Hyoseong Choi
   - admin
-  - Eunbi Jeong
-  - Nam Sung Kim
-  - Myung Kuk Yoon
+  - Junsung Yang
+  - Won Woo Ro
 publication: Journal of Systems Architecture (accepted)
 abstract: TBD
 draft: false
-url_pdf: https://ieeexplore.ieee.org/document/10226394
+url_pdf: false
 doi: ""
 featured: false
 tags:
@@ -22,5 +23,5 @@ image:
   preview_only: false
   caption: ""
 summary: ""
-date: 2023-11-07T01:14:05.204Z
+date: 2023-11-05T01:14:05.204Z
 ---
