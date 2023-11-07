@@ -34,7 +34,7 @@ image:
   focal_point: SMART
   preview_only: false
   caption: ""
-date: 2023-09-10T19:54:34.476Z
+date: 2023-11-07T01:22:24.537Z
 url_slides: ""
 url_poster: ""
 url_code: ""
