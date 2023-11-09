@@ -8,7 +8,7 @@ authors:
   - admin
   - Junsung Yang
   - Won Woo Ro
-publication: Journal of Systems Architecture (accepted)
+publication: Journal of Systems Architecture (early access)
 abstract: TBD
 draft: false
 url_pdf: "https://www.sciencedirect.com/science/article/pii/S1383762123002047"
