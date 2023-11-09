@@ -1,5 +1,6 @@
 ---
-title: "A convertible neural processor supporting adaptive quantization for real-time neural networks"
+title: A Convertible Neural Processor Supporting Adaptive Quantization for
+  Real-Time Neural Networks
 publication_types:
   - "2"
 authors:
@@ -11,7 +12,7 @@ authors:
 publication: Journal of Systems Architecture (early access)
 abstract: TBD
 draft: false
-url_pdf: "https://www.sciencedirect.com/science/article/pii/S1383762123002047"
+url_pdf: https://www.sciencedirect.com/science/article/pii/S1383762123002047
 doi: ""
 featured: false
 tags:
