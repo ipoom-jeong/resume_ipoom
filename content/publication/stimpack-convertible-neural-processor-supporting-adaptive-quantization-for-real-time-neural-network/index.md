@@ -1,6 +1,5 @@
 ---
-title: "Stimpack: Convertible Neural Processor Supporting Adaptive Quantization
-  for Real-Time Neural Network"
+title: "A convertible neural processor supporting adaptive quantization for real-time neural networks"
 publication_types:
   - "2"
 authors:
@@ -12,7 +11,7 @@ authors:
 publication: Journal of Systems Architecture (accepted)
 abstract: TBD
 draft: false
-url_pdf: false
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S1383762123002047"
 doi: ""
 featured: false
 tags:
