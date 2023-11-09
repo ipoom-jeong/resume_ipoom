@@ -31,7 +31,8 @@ abstract: >-
   throughput of network-intensive applications by 20% while maintaining that of storage-intensive applications.
 draft: false
 url_pdf: https://ieeexplore.ieee.org/document/10171430
-featured: true
+doi: 10.1109/LCA.2023.3290427
+featured: false
 tags:
   - DDIO
   - Datacenter
@@ -40,7 +41,6 @@ tags:
   - Storage
   - Network
   - CPU
-doi: 10.1109/LCA.2023.3290427
 image:
   filename: featured
   focal_point: Smart
