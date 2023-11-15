@@ -39,6 +39,7 @@ doi: ""
 featured: false
 tags:
   - Processing-in-Memory
+  - Deep Learning
 image:
   filename: ""
   focal_point: Smart
