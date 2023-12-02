@@ -28,7 +28,7 @@ url_source: ""
 url_video: ""
 url_tutorial: ""
 title: A Quantitative Analysis and Guidelines of Data Streaming Accelerator in
-  Intel 4th Gen Xeon Scalable Processors
+  Modern Intel Xeon Scalable Processors
 tags:
   - Accelerator
   - DMA
