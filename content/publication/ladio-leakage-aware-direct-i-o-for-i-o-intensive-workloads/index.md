@@ -31,7 +31,6 @@ abstract: >-
   throughput of network-intensive applications by 20% while maintaining that of storage-intensive applications.
 draft: false
 url_pdf: https://ieeexplore.ieee.org/document/10171430
-doi: 10.1109/LCA.2023.3290427
 featured: false
 tags:
   - DDIO
