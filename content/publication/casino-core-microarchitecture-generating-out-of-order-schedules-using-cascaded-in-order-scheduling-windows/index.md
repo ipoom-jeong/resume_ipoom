@@ -39,7 +39,6 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-doi: 10.1109/HPCA47549.2020.00039
 image:
   filename: featured.png
   focal_point: Smart
