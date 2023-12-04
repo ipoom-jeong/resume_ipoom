@@ -42,7 +42,6 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-doi: 10.1109/ACCESS.2022.3196149
 image:
   filename: featured.png
   focal_point: Smart
