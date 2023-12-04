@@ -39,7 +39,6 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-doi: 10.1109/MICRO56248.2022.00023
 image:
   filename: featured.jpg
   focal_point: Smart
