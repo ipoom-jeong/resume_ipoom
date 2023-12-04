@@ -34,7 +34,6 @@ url_project: ""
 url_source: ""
 url_video: ""
 title: "CASH-RF: A Compiler-Assisted Hierarchical Register File in GPUs"
-doi: 10.1109/LES.2022.3163749
 publication: "IEEE Embedded Systems Letters (Volume: 14, Issue: 4)"
 featured: false
 tags:
