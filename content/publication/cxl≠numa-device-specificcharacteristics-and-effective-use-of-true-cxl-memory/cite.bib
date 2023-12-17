@@ -1,0 +1,18 @@
+@inproceedings{10.1145/3613424.3614256,
+author = {Sun, Yan and Yuan, Yifan and Yu, Zeduo and Kuper, Reese and Song, Chihun and Huang, Jinghan and Ji, Houxiang and Agarwal, Siddharth and Lou, Jiaqi and Jeong, Ipoom and Wang, Ren and Ahn, Jung Ho and Xu, Tianyin and Kim, Nam Sung},
+title = {Demystifying CXL Memory with Genuine CXL-Ready Systems and Devices},
+year = {2023},
+isbn = {9798400703294},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3613424.3614256},
+doi = {10.1145/3613424.3614256},
+abstract = {The ever-growing demands for memory with larger capacity and higher bandwidth have driven recent innovations on memory expansion and disaggregation technologies based on Compute eXpress Link (CXL). Especially, CXL-based memory expansion technology has recently gained notable attention for its ability not only to economically expand memory capacity and bandwidth but also to decouple memory technologies from a specific memory interface of the CPU. However, since CXL memory devices have not been widely available, they have been emulated using DDR memory in a remote NUMA node. In this paper, for the first time, we comprehensively evaluate a true CXL-ready system based on the latest 4th-generation Intel Xeon CPU with three CXL memory devices from different manufacturers. Specifically, we run a set of microbenchmarks not only to compare the performance of true CXL memory with that of emulated CXL memory but also to analyze the complex interplay between the CPU and CXL memory in depth. This reveals important differences between emulated CXL memory and true CXL memory, some of which will compel researchers to revisit the analyses and proposals from recent work. Next, we identify opportunities for memory-bandwidth-intensive applications to benefit from the use of CXL memory. Lastly, we propose a CXL-memory-aware dynamic page allocation policy, Caption to more efficiently use CXL memory as a bandwidth expander. We demonstrate that Caption can automatically converge to an empirically favorable percentage of pages allocated to CXL memory, which improves the performance of memory-bandwidth-intensive applications by up to 24\% when compared to the default page allocation policy designed for traditional NUMA systems.},
+booktitle = {Proceedings of the 56th Annual IEEE/ACM International Symposium on Microarchitecture},
+pages = {105–121},
+numpages = {17},
+keywords = {Compute eXpress Link, tiered-memory management, measurement},
+location = {, Toronto, ON, Canada, },
+series = {MICRO '23}
+}
+
