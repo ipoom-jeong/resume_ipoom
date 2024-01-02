@@ -11,7 +11,7 @@ publication: ACM International Conference on Parallel Architectures and
   Compilation Techniques (PACT)
 abstract: TBD
 draft: false
-url_pdf: null
+url_pdf: https://ieeexplore.ieee.org/abstract/document/10364590
 featured: false
 summary: null
 url_dataset: ""
