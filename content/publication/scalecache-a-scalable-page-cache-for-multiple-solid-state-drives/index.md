@@ -25,10 +25,9 @@ url_video: ""
 url_tutorial: ""
 title: "ScaleCache: A Scalable Page Cache for Multiple Solid-State Drives"
 tags:
-  - CXL
-  - memory
-  - CPU
-  - datacenter
+  - Storage
+  - SSD
+  - Page~cache
 image:
   filename: featured.png
   focal_point: SMART
