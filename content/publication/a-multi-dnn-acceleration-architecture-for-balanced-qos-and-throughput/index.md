@@ -18,7 +18,8 @@ url_source: ""
 url_video: ""
 title: A Multi-DNN Acceleration Architecture for Balanced QoS and Throughput
 doi: ""
-publication: International Conference on Electronics, Information, and Communication (ICEIC)
+publication: International Conference on Electronics, Information, and
+  Communication (ICEIC, accepted)
 featured: false
 tags:
   - Multi-DNN
