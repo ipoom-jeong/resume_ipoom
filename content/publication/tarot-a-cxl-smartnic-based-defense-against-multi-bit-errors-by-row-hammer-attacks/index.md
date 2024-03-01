@@ -2,15 +2,16 @@
 publication_types:
   - "1"
 authors:
-  - Reese Kuper
+  - Chihun Song
+  - Michael Jaemin Kim
+  - Tianchen Wang
+  - Houxiang Ji
+  - Jinghan Huang
   - admin
-  - Yifan Yuan
-  - Ren Wang
-  - Narayan Ranganathan
-  - Nikhil Rao
-  - Jiayu Hu
-  - Sanjay Kumar
-  - Philip Lantz
+  - Jaehyun Park
+  - Hwayong Nam
+  - Minbok Wi
+  - Jung Ho Ahn
   - Nam Sung Kim
 publication: ACM Conference on Architectural Support for Programming Languages
   and Operating Systems (ASPLOS, accepted)
@@ -28,14 +29,12 @@ url_tutorial: ""
 title: "TAROT: A CXL SmartNIC-Based Defense Against Multi-bit Errors by Row
   Hammer Attacks"
 tags:
-  - Rowhammer
+  - Row hammer
   - CXL
   - SmartNIC
 date: 2024-03-01T03:27:01.862Z
 url_slides: ""
 links:
-  - name: ISCA 2023 Tutorial
-    url: https://www.iscaconf.org/isca2023/program/workshops.php
 image:
   filename: ""
   focal_point: Smart
