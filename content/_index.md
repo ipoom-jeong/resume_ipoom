@@ -23,13 +23,23 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Assistant Professor
+          company: Yonsei University
+          company_url: 'https://yonsei.ac.kr/'
+          company_logo: ''
+          location: Seoul, Korea
+          date_start: '2024-03-01'
+          date_end: ''
+          description: |2-
+              * Department of System Semiconductor Engineering
+              * Department of Electrical and Electronic Engineering
         - title: Postdoctoral Research Associate
           company: University of Illinois Urbana-Champaign
           company_url: 'https://illinois.edu/'
           company_logo: ''
           location: Illinois, USA
           date_start: '2022-09-01'
-          date_end: ''
+          date_end: '2024-02-29'
           description: |2-
               * Coordinated Science Lab (CSL)
               * Principal Investigator (PI): Professor Nam Sung Kim
