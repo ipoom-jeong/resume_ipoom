@@ -2,11 +2,12 @@
 publication_types:
   - "1"
 authors:
-  - Hyunjun Shin
-  - Kyungmin Lee
   - admin
-  - Jong Hyun Park
-  - Won Woo Ro
+  - Sungji Choi
+  - Minjae Kim
+  - Enhyeok Jang
+  - Seokjin Go
+  - WonWooRo
 publication_short: ""
 abstract: ""
 draft: false
