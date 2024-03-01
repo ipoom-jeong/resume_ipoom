@@ -7,11 +7,11 @@ authors:
   - Minjae Kim
   - Enhyeok Jang
   - Seokjin Go
-  - WonWooRo
+  - Won Woo Ro
 publication_short: ""
 abstract: ""
 draft: false
-url_pdf: https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE07110631
+url_pdf: ""
 url_dataset: ""
 url_project: ""
 url_source: ""
