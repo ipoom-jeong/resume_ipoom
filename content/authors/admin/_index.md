@@ -1,6 +1,6 @@
 ---
 title: Ipoom Jeong
-role: Postdoctoral Research Associate
+role: Assistant Professor
 bio: My research interests include CPU/GPU microarchitectures, memory/storage
   system designs, and smart-I/O devices
 interests:
@@ -26,8 +26,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: University of Illinois Urbana-Champaign
-    url: https://www.illinois.edu/
+  - name: Yonsei University
+    url: https://www.yonsei.ac.kr/
 education:
   courses:
     - course: PhD in Electrial and Electronic Engineering
@@ -44,4 +44,4 @@ highlight_name: true
 first_name: Ipoom
 email: ""
 ---
-Ipoom Jeong is a Postdoctoral Research Associate at the University of Illinois Urbana-Champaign (UIUC) and a member of the Institute of Electrical and Electronics Engineers (IEEE). He earned his Ph.D. degree from the Department of Electrical and Electronic Engineering at Yonsei University in 2020. His research expertise encompasses roles such as a Hardware Engineer in the Memory Business division at Samsung Electronics (2020-2021) and a Research Professor at the Department of Electrical and Electronic Engineering at Yonsei University (2021-2022).
+Ipoom Jeong is an assistant professor in the Department of Systems and Semiconductor Engineering at Yonsei University and a member of the Institute of Electrical and Electronics Engineers (IEEE). He earned his Ph.D. degree from the Department of Electrical and Electronic Engineering at Yonsei University in 2020. His research expertise encompasses roles such as a Hardware Engineer in the Memory Business division at Samsung Electronics (2020-2021), a Research Professor at the Department of Electrical and Electronic Engineering at Yonsei University (2021-2022), and a Postdoctoral Research Associate at the University of Illinois Urbana-Champaign (2022-2024).
