@@ -27,7 +27,7 @@ title: "ScaleCache: A Scalable Page Cache for Multiple Solid-State Drives"
 tags:
   - Storage
   - SSD
-  - Page~cache
+  - Page cache
 image:
   filename: featured.png
   focal_point: SMART
