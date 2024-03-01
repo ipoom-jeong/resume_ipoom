@@ -28,10 +28,9 @@ url_tutorial: ""
 title: "TAROT: A CXL SmartNIC-Based Defense Against Multi-bit Errors by Row
   Hammer Attacks"
 tags:
-  - Accelerator
-  - DMA
-  - Xeon
-  - Sapphire Rapids
+  - Rowhammer
+  - CXL
+  - SmartNIC
 date: 2024-03-01T03:27:01.862Z
 url_slides: ""
 links:
