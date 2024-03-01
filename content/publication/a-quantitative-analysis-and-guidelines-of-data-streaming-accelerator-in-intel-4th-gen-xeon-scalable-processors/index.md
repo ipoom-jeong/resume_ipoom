@@ -34,7 +34,7 @@ tags:
   - DMA
   - Xeon
   - Sapphire Rapids
-date: 2024-03-01T03:28:23.168Z
+date: 2024-03-01T03:34:12.286Z
 url_slides: ""
 links:
   - name: ISCA 2023 Tutorial
