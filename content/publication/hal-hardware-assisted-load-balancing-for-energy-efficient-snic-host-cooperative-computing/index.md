@@ -2,15 +2,14 @@
 publication_types:
   - "1"
 authors:
-  - Reese Kuper
+  - Jinghan Huang
+  - Jiaqi Lou
+  - Srikar Vanavasam
+  - Xinhao Kong
+  - Houxiang Ji
   - admin
-  - Yifan Yuan
-  - Ren Wang
-  - Narayan Ranganathan
-  - Nikhil Rao
-  - Jiayu Hu
-  - Sanjay Kumar
-  - Philip Lantz
+  - Eun Kyung Lee
+  - Danyang Zhuo 
   - Nam Sung Kim
 publication: IEEE/ACM International Symposium on Computer Architecture (ISCA, accepted)
 abstract: TBD
@@ -27,10 +26,9 @@ url_tutorial: ""
 title: "HAL: Hardware-assisted Load Balancing for Energy-efficient SNIC-Host
   Cooperative Computing"
 tags:
-  - Accelerator
-  - DMA
-  - Xeon
-  - Sapphire Rapids
+  - Network
+  - SmartNIC
+  - CXL
 date: 2024-03-20T07:07:21.630Z
 url_slides: ""
 links:
