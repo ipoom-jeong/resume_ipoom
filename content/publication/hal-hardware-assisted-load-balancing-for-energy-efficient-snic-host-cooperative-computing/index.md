@@ -32,8 +32,6 @@ tags:
 date: 2024-03-20T07:07:21.630Z
 url_slides: ""
 links:
-  - name: ISCA 2023 Tutorial
-    url: https://www.iscaconf.org/isca2023/program/workshops.php
 image:
   filename: ""
   focal_point: Smart
