@@ -2,14 +2,17 @@
 publication_types:
   - "1"
 authors:
-  - Jinghan Huang
-  - Jiaqi Lou
-  - Srikar Vanavasam
-  - Xinhao Kong
-  - Houxiang Ji
+  - Yifan Yuan
+  - Ren Wang
+  - Narayan Ranganathan
+  - Nikhil Rao
+  - Sanjay Kumar
+  - Philip Lantz
+  - Vivekananthan Sanjeepan
+  - Jorge Cabrera
+  - Atul Kwatra
+  - Rajesh Sankaran
   - admin
-  - Eun Kyung Lee
-  - Danyang Zhuo
   - Nam Sung Kim
 publication: IEEE/ACM International Symposium on Computer Architecture (ISCA, accepted)
 abstract: TBD
@@ -25,9 +28,9 @@ url_video: ""
 url_tutorial: ""
 title: "Intel Accelerator Ecosystem: An SoC-Oriented Perspective"
 tags:
-  - Network
-  - SmartNIC
-  - CXL
+  - CPU
+  - Accelerator
+  - Systems
 date: 2024-03-23T06:22:48.949Z
 url_slides: ""
 links: null
