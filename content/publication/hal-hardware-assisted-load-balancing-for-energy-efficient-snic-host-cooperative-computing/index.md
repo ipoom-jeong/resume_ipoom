@@ -9,13 +9,13 @@ authors:
   - Houxiang Ji
   - admin
   - Eun Kyung Lee
-  - Danyang Zhuo 
+  - Danyang Zhuo
   - Nam Sung Kim
 publication: IEEE/ACM International Symposium on Computer Architecture (ISCA, accepted)
 abstract: TBD
 draft: false
 url_pdf: false
-featured: true
+featured: false
 summary: ""
 url_dataset: ""
 url_project: ""
@@ -31,7 +31,7 @@ tags:
   - CXL
 date: 2024-03-20T07:07:21.630Z
 url_slides: ""
-links:
+links: null
 image:
   filename: ""
   focal_point: Smart
