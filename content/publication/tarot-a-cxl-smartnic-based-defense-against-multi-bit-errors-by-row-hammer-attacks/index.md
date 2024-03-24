@@ -18,7 +18,7 @@ publication: ACM Conference on Architectural Support for Programming Languages
 abstract: TBD
 draft: false
 url_pdf: false
-featured: true
+featured: false
 summary: ""
 url_dataset: ""
 url_project: ""
