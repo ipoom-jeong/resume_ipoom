@@ -254,7 +254,6 @@ sections:
       address:
         street: 50, Yonsei-ro, Seodaemun-gu
         city: Seoul
-        region: Seoul
         postcode: '03722'
         country: Republic of Korea
         country_code: KR
