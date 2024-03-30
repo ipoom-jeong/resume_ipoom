@@ -248,20 +248,20 @@ sections:
       #text: |-
       #  Thank you for visiting Ipoom Jeong's website!
       # Contact (add or remove contact options as necessary)
-      email: ipoom@illinois.edu
-      phone: +1 (217) 778-8808
+      email: ipoom@yonsei.ac.kr
+      phone: 02-2123-5853
       #appointment_url: 'https://calendly.com'
       address:
-        street: 1308 W Main St
-        city: Urbana
-        region: IL
-        postcode: '61801'
-        country: United States
-        country_code: US
+        street: 50, Yonsei-ro, Seodaemun-gu
+        city: Seoul
+        region: Seoul
+        postcode: '03722'
+        country: Republic of Korea
+        country_code: KR
       coordinates:
-        latitude: '40.115030'
-        longitude: '-88.226570'
-      directions: Enter CSL (Coordinated Science Laboratory) building and take the stairs to Office 456 on Floor 4
+        latitude: '37.335903'
+        longitude: '126.561969'
+      #directions: Enter CSL (Coordinated Science Laboratory) building and take the stairs to Office 456 on Floor 4
       #office_hours:
       #  - 'Monday 10:00 to 13:00'
       #  - 'Wednesday 09:00 to 10:00'
