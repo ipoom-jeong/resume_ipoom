@@ -14,7 +14,7 @@ authors:
 publication: ACM SIGOPS European Conference on Computer Systems (EuroSys)
 abstract: TBD
 draft: false
-url_pdf: [null](https://dl.acm.org/doi/abs/10.1145/3627703.3629588)
+url_pdf: https://dl.acm.org/doi/abs/10.1145/3627703.3629588
 featured: false
 summary: ""
 url_dataset: ""
