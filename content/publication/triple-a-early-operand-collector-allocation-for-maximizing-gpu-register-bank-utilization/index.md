@@ -62,5 +62,5 @@ image:
   preview_only: false
   caption: Triple-A microarchitecture overview
 summary: ""
-date: 2023-08-18T21:06:57.697Z
+date: 2024-04-26T07:23:12.579Z
 ---
