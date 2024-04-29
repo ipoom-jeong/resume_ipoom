@@ -238,6 +238,7 @@ sections:
         * ACM Transactions on Architecture and Code Optimization (TACO)
         * IEEE Computer Architecture Letters (CAL)
         * Microprocessors and Microsystems
+        * IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
