@@ -32,7 +32,7 @@ sections:
           date_end: ''
           description: |2-
               * Department of System Semiconductor Engineering
-              * Department of Electrical and Electronic Engineering
+              * School of Electrical and Electronic Engineering
               * Research Topics: Energy-Efficient CPU/GPU Microarchitectures, High-Performance System Architectures, Near-Data Processing, Interconnect Technologies
         - title: Postdoctoral Research Associate
           company: University of Illinois Urbana-Champaign
