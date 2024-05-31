@@ -8,7 +8,7 @@ authors:
   - Eunbi Jeong
   - Nam Sung Kim
   - Myung Kuk Yoon
-publication: IEEE Embedded Systems Letters (early access)
+publication: "IEEE Embedded Systems Letters (Volume: 16, Issue: 2)"
 abstract: >-
   Recent GPUs provisioned with large register files
 
@@ -62,5 +62,5 @@ image:
   preview_only: false
   caption: Triple-A microarchitecture overview
 summary: ""
-date: 2024-04-26T07:23:12.579Z
+date: 2024-05-31T08:02:10.121Z
 ---
