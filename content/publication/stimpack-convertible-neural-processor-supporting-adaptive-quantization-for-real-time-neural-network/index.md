@@ -9,7 +9,7 @@ authors:
   - admin
   - Junsung Yang
   - Won Woo Ro
-publication: Journal of Systems Architecture
+publication: Journal of Systems Architecture (JSA)
 abstract: This paper presents Stimpack, a responsive approach toward adaptive
   neural processing unit (NPU), aiming to satisfy service-level objectives
   (SLOs) under highly massive loads of neural network (NN) inference. Initially,
