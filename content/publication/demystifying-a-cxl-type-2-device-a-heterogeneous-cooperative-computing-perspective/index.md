@@ -2,24 +2,21 @@
 publication_types:
   - "1"
 authors:
-  - Yan Sun
-  - Yifan Yuan
-  - Zeduo Yu
-  - Reese Kuper
-  - Chihun Song
-  - Jinghan Huang
   - Houxiang Ji
-  - Siddharth Agarwal
-  - Jiaqi Lou
-  - admin
+  - Srikar Vanavasam
+  - Yang Zhou
+  - Qirong Xia
+  - Jinghan Huang
+  - Yifan Yuan
   - Ren Wang
-  - Jung Ho Ahn
-  - Tianyin Xu
+  - Pekon Gupta
+  - Bhushan Chitlur
+  - admin
   - Nam Sung Kim
 publication: IEEE/ACM International Symposium on Microarchitecture (MICRO)
 abstract: TBD
 draft: false
-url_pdf: https://dl.acm.org/doi/abs/10.1145/3613424.3614256
+url_pdf: ""
 featured: false
 summary: ""
 url_dataset: ""
