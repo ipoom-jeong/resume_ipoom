@@ -33,10 +33,10 @@ tags:
   - CPU
   - datacenter
 image:
-  filename: featured.png
+  filename: ""
   focal_point: SMART
   preview_only: false
-  caption: CXL memory module overview
+  caption: ""
 date: 2024-07-25T01:00:18.442Z
 url_slides: ""
 url_poster: ""
