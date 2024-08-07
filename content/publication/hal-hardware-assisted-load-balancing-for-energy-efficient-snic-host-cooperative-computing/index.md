@@ -31,6 +31,7 @@ tags:
   - CXL
 date: 2024-04-26T07:21:20.899Z
 url_slides: ""
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/10609665"
 links: null
 image:
   filename: ""
