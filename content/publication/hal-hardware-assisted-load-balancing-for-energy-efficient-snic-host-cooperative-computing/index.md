@@ -11,7 +11,7 @@ authors:
   - Eun Kyung Lee
   - Danyang Zhuo
   - Nam Sung Kim
-publication: IEEE/ACM International Symposium on Computer Architecture (ISCA, accepted)
+publication: IEEE/ACM International Symposium on Computer Architecture (ISCA)
 abstract: TBD
 draft: false
 url_pdf: false
