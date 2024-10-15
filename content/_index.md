@@ -235,10 +235,12 @@ sections:
         * Artificial Intelligence Circuits and Systems (AICAS 2022)
         #### **External Reviewer**
         * IEEE Transactions on Emerging Topics in Computing (TETC)
-        * ACM Transactions on Architecture and Code Optimization (TACO)
-        * IEEE Computer Architecture Letters (CAL)
-        * Microprocessors and Microsystems
+        * IEEE Transactions on Computers (TC)
         * IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)
+        * IEEE Computer Architecture Letters (CAL)
+        * ACM Transactions on Architecture and Code Optimization (TACO)
+        * Microprocessors and Microsystems
+        
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
