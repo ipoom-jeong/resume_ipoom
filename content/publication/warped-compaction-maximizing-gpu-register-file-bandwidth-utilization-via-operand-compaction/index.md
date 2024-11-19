@@ -24,6 +24,7 @@ title: "Warped-Compaction: Maximizing GPU Register File Bandwidth Utilization
 tags:
   - GPU
   - microarchitecture
+  - operand collection
   - register files
 image:
   filename: ""
