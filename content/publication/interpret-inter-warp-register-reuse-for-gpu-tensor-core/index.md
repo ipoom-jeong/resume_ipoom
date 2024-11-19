@@ -23,9 +23,9 @@ url_tutorial: ""
 title: "INTERPRET: Inter-Warp Register Reuse for GPU Tensor Core"
 tags:
   - GPGPU
-  - Tensor core
-  - Neural network
-  - Register files
+  - Tensor Cores
+  - Neural Network
+  - Register Files
 categories: null
 image:
   filename: ""
