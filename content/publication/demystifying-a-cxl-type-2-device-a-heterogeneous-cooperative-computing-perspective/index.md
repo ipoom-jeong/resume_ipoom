@@ -29,9 +29,9 @@ title: "Demystifying a CXL Type-2 device: A heterogeneous cooperative computing
   perspective"
 tags:
   - CXL
-  - memory
+  - Memory
   - CPU
-  - datacenter
+  - Datacenter
 image:
   filename: ""
   focal_point: SMART
