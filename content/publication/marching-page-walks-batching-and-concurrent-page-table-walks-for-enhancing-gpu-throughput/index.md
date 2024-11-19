@@ -2,17 +2,12 @@
 publication_types:
   - "1"
 authors:
-  - Houxiang Ji
-  - Srikar Vanavasam
-  - Yang Zhou
-  - Qirong Xia
-  - Jinghan Huang
-  - Yifan Yuan
-  - Ren Wang
-  - Pekon Gupta
-  - Bhushan Chitlur
+  - Jiwon Lee
+  - Gun Ko
+  - Myung Kuk Yoon
   - admin
-  - Nam Sung Kim
+  - Yunho Oh
+  - and Won Woo Ro
 publication: IEEE International Symposium on High Performance Computer
   Architecture (HPCA, accepted)
 abstract: TBD
