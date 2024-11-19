@@ -7,7 +7,7 @@ authors:
   - Myung Kuk Yoon
   - admin
   - Yunho Oh
-  - and Won Woo Ro
+  - Won Woo Ro
 publication: IEEE International Symposium on High Performance Computer
   Architecture (HPCA, accepted)
 abstract: TBD
