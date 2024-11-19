@@ -55,6 +55,7 @@ featured: false
 tags:
   - GPU
   - Microarchitecture
+  - Operand Collection
   - Register Files
 image:
   filename: 230509_overview.png
