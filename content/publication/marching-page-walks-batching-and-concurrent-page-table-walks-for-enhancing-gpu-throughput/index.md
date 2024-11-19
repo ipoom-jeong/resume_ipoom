@@ -24,10 +24,9 @@ url_tutorial: ""
 title: "Marching Page Walks: Batching and Concurrent Page Table Walks for
   Enhancing GPU Throughput"
 tags:
-  - CXL
-  - memory
-  - CPU
-  - datacenter
+  - GPU
+  - Microarchitecture
+  - Virtual Memory
 image:
   filename: ""
   focal_point: SMART
