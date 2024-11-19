@@ -5,7 +5,7 @@ authors:
   - Eunbi Jeong
   - admin
   - Myung Kuk Yoon
-  - and Nam Sung Kim
+  - Nam Sung Kim
 publication: IEEE International Symposium on High Performance Computer
   Architecture (HPCA, accepted)
 abstract: TBD
