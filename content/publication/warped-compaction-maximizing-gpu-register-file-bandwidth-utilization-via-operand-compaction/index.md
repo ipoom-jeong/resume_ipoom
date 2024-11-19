@@ -2,12 +2,10 @@
 publication_types:
   - "1"
 authors:
-  - Jiwon Lee
-  - Gun Ko
-  - Myung Kuk Yoon
+  - Eunbi Jeong
   - admin
-  - Yunho Oh
-  - and Won Woo Ro
+  - Myung Kuk Yoon*
+  - and Nam Sung Kim
 publication: IEEE International Symposium on High Performance Computer
   Architecture (HPCA, accepted)
 abstract: TBD
