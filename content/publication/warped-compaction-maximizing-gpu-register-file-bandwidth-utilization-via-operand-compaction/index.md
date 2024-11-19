@@ -22,10 +22,9 @@ url_tutorial: ""
 title: "Warped-Compaction: Maximizing GPU Register File Bandwidth Utilization
   via Operand Compaction"
 tags:
-  - CXL
-  - memory
-  - CPU
-  - datacenter
+  - GPU
+  - microarchitecture
+  - register files
 image:
   filename: ""
   focal_point: SMART
