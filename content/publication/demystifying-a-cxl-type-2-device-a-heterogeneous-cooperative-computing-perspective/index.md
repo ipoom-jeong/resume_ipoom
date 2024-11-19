@@ -31,7 +31,7 @@ tags:
   - CXL
   - Memory
   - CPU
-  - dDatacenter
+  - Datacenter
 image:
   filename: ""
   focal_point: SMART
