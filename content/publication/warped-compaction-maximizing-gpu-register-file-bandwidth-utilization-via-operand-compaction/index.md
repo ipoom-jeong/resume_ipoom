@@ -23,9 +23,9 @@ title: "Warped-Compaction: Maximizing GPU Register File Bandwidth Utilization
   via Operand Compaction"
 tags:
   - GPU
-  - microarchitecture
-  - operand collection
-  - register files
+  - Microarchitecture
+  - Operand Collection
+  - Register Files
 image:
   filename: ""
   focal_point: SMART
