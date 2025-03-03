@@ -9,7 +9,7 @@ authors:
   - Yunho Oh
   - Won Woo Ro
 publication: IEEE International Symposium on High Performance Computer
-  Architecture (HPCA, accepted)
+  Architecture (HPCA)
 abstract: TBD
 draft: false
 url_pdf: ""
