@@ -7,7 +7,7 @@ authors:
   - Myung Kuk Yoon
   - Nam Sung Kim
 publication: IEEE International Symposium on High Performance Computer
-  Architecture (HPCA, accepted)
+  Architecture (HPCA)
 abstract: TBD
 draft: false
 url_pdf: ""
@@ -31,7 +31,7 @@ image:
   focal_point: SMART
   preview_only: false
   caption: ""
-date: 2024-11-19T04:01:31.464Z
+date: 2025-03-01T04:01:31.464Z
 url_slides: ""
 url_poster: ""
 url_code: ""
