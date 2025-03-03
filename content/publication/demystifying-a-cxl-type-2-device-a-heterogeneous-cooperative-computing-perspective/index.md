@@ -13,7 +13,7 @@ authors:
   - Bhushan Chitlur
   - admin
   - Nam Sung Kim
-publication: IEEE/ACM International Symposium on Microarchitecture (MICRO, accepted)
+publication: IEEE/ACM International Symposium on Microarchitecture (MICRO)
 abstract: TBD
 draft: false
 url_pdf: ""
@@ -37,7 +37,7 @@ image:
   focal_point: SMART
   preview_only: false
   caption: ""
-date: 2024-07-25T01:00:18.442Z
+date: 2024-11-01T01:00:18.442Z
 url_slides: ""
 url_poster: ""
 url_code: ""
