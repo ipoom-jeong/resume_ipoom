@@ -49,8 +49,8 @@ publication_short: ""
 url_source: ""
 url_video: ""
 url_tutorial: ""
-title: "Demystifying a CXL Type-2 device: A heterogeneous cooperative computing
-  perspective"
+title: "Demystifying a CXL Type-2 Device: A Heterogeneous Cooperative Computing
+  Perspective"
 tags:
   - CPU
   - CXL
