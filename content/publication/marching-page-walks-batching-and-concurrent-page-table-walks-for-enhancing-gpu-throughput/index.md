@@ -32,7 +32,7 @@ image:
   focal_point: SMART
   preview_only: false
   caption: ""
-date: 2024-11-19T04:00:27.954Z
+date: 2025-03-01T04:00:27.954Z
 url_slides: ""
 url_poster: ""
 url_code: ""
