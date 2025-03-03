@@ -21,7 +21,7 @@ CXL Type-2 device has become commercially available, followed
 by CXL Type-3 devices. Therefore, it is timely to understand
 capabilities and characteristics of the CXL Type-2 device, as
 well as explore suitable applications. In this work, first, we delve
-into three key features of a CXL Type-2 device: cache-coherent
+into three key features of a CXL Type-2 device\: cache-coherent
 device accelerator to host memory, device accelerator to device
 memory, and host CPU to device memory accesses. Second, using
 microbenchmarks, we comprehensively characterize the latency
@@ -30,7 +30,7 @@ device, and then compare them with those of equivalent memory
 accesses with comparable devices, such as emulated CXL Type-2,
 CXL Type-3, and PCIe devices. Lastly, as applications that exploit
 the unique capabilities of a CXL Type-2 device, we propose two
-CXL-based Linux memory optimization features: compressed
+CXL-based Linux memory optimization features\: compressed
 RAM cache for swap (zswap) and memory deduplication (ksm).
 Our evaluation shows that Redis, when running with traditional
 CPU-based zswap and ksm, suffers from a tail latency increase
