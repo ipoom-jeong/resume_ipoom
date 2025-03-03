@@ -56,7 +56,7 @@ tags:
   - CXL
   - Memory
   - Accelerator
-  - System
+  - Systems
   - Datacenter
 image:
   filename: ""
