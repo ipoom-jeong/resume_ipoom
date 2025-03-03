@@ -23,10 +23,10 @@ url_tutorial: ""
 title: "Intel® In-Memory Analytics Accelerator: Performance Characterization and
   Guidelines"
 tags:
-  - GPU
-  - Microarchitecture
-  - Operand Collection
-  - Register Files
+  - CPU
+  - Accelerator
+  - IAA
+  - Systems
 image:
   filename: ""
   focal_point: SMART
