@@ -40,7 +40,7 @@ tail latency increase with faster and more efficient host-device
 communication than PCIe-based zswap and ksm."
 
 draft: false
-url_pdf: ""
+url_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10764537&casa_token=J_x57OKKsjcAAAAA:aNHpaPCkxR9RUUcIFGf0EanD0a62kSG-cowfTPcHJFHZUsnuKCkv8LQyL4zJKAjD2YAi6mmssA"
 featured: false
 summary: ""
 url_dataset: ""
