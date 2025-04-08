@@ -30,7 +30,7 @@ featured: false
 tags:
   - CPU
   - Microarchitecture
-  - Dynamic Scheduling
+  - Dynamic scheduling
 image:
   filename: featured.png
   focal_point: Smart
