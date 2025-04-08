@@ -2,7 +2,7 @@
 publication_types:
   - "1"
 authors:
-  - admin,
+  - admin
   - Jinghan Huang
   - Chuxuan Hu
   - Dohyun Park
