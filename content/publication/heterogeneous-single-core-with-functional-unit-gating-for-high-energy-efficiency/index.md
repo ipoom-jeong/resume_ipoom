@@ -31,7 +31,6 @@ tags:
   - CPU
   - Microarchitecture
   - Dynamic Scheduling
-  - Energy Efficiency
 image:
   filename: featured.png
   focal_point: Smart
