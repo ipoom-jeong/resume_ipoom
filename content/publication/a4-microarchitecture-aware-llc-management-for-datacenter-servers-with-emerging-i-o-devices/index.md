@@ -42,8 +42,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 url_tutorial: ""
-title: "A4: Microarchitecture-Aware LLC Management for Datacenter Servers with
-  Emerging I/O Devices"
+title: "A4: Microarchitecture-Aware LLC Management for Datacenter Servers with Emerging I/O Devices"
 tags:
   - CPU
   - Microarchitecture
