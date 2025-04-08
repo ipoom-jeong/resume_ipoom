@@ -13,7 +13,7 @@ publication: ACM/IEEE International Symposium on Computer Architecture (ISCA, ac
 abstract: TBD
 draft: false
 url_pdf: ""
-featured: false
+featured: true
 summary: ""
 url_dataset: ""
 url_project: ""
