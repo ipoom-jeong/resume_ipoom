@@ -2,11 +2,13 @@
 publication_types:
   - "1"
 authors:
+  - admin,
+  - Jinghan Huang
+  - Chuxuan Hu
+  - Dohyun Park
   - Jaeyoung Kang
-  - Qirong Xia
-  - admin
-  - Yongjoo Park
   - Nam Sung Kim
+  - Yongjoo Park
 publication: ACM/IEEE International Symposium on Computer Architecture (ISCA, accepted)
 abstract: TBD
 draft: false
@@ -21,9 +23,9 @@ url_video: ""
 url_tutorial: ""
 title: "UPP: Universal Predicate Pushdown to Smart Storage"
 tags:
-  - CPU
-  - Accelerator
-  - IAA
+  - SSD
+  - In-storage processing
+  - Database
   - Systems
 image:
   filename: ""
