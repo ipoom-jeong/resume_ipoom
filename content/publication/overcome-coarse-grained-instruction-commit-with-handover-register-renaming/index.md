@@ -31,7 +31,7 @@ abstract: "Coarse-grained instruction commit mechanisms enabled the effective
   4×, with a net overhead of less than 3 percent of the core area."
 draft: false
 url_pdf: https://ieeexplore.ieee.org/abstract/document/8807276
-featured: true
+featured: false
 tags:
   - CPU
   - Microarchitecture
