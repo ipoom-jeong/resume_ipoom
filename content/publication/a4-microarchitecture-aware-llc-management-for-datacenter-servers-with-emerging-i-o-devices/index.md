@@ -29,6 +29,7 @@ tags:
   - Microarchitecture
   - Last-Level Cache
   - Data direct I/O
+  - Systems
 image:
   filename: ""
   focal_point: SMART
