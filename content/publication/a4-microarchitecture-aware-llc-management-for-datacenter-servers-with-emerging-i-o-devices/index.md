@@ -2,10 +2,13 @@
 publication_types:
   - "1"
 authors:
-  - Jaeyoung Kang
-  - Qirong Xia
+  - Haneul Park
+  - Jiaqi Lou
+  - Sangjin Lee
+  - Yifan Yuan
+  - KyoungSoo Park
+  - Yongseok Son
   - admin
-  - Yongjoo Park
   - Nam Sung Kim
 publication: ACM/IEEE International Symposium on Computer Architecture (ISCA, accepted)
 abstract: TBD
@@ -23,9 +26,9 @@ title: "A4: Microarchitecture-Aware LLC Management for Datacenter Servers with
   Emerging I/O Devices"
 tags:
   - CPU
-  - Accelerator
-  - IAA
-  - Systems
+  - Microarchitecture
+  - Last-Level Cache
+  - Data direct I/O
 image:
   filename: ""
   focal_point: SMART
