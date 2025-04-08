@@ -27,14 +27,14 @@ publication: Annual Summer Conference of IEIE
 featured: false
 tags:
   - CPU
-  - Muti-Core Architecture
+  - Multi-core architecture
   - Survey
 image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
   caption: CASINO core microarchitecture overview
-date: 2016-06-01T00:00:00.592Z
+date: 2016-06-01T01:00:00.592Z
 url_slides: ""
 url_poster: ""
 url_code: ""
