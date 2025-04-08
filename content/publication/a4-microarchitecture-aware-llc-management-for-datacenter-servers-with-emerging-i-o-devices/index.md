@@ -27,7 +27,7 @@ title: "A4: Microarchitecture-Aware LLC Management for Datacenter Servers with
 tags:
   - CPU
   - Microarchitecture
-  - Last-Level Cache
+  - Last-level cache
   - Data direct I/O
   - Systems
 image:
