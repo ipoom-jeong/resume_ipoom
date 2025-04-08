@@ -17,7 +17,7 @@ publication: ACM Conference on Architectural Support for Programming Languages
 abstract: TBD
 draft: false
 url_pdf: https://dl.acm.org/doi/abs/10.1145/3620665.3640401
-featured: true
+featured: false
 summary: In this work, we set out to introduce the latest features supported by
   Intel DSA (Data Streaming Accelerator), deep-dive into its versatility, and
   analyze its throughput benefits through a comprehensive evaluation.
