@@ -8,8 +8,7 @@ authors:
   - admin
   - Yunho Oh
   - Won Woo Ro
-publication: IEEE International Symposium on High Performance Computer
-  Architecture (HPCA)
+publication: IEEE International Symposium on High-Performance Computer Architecture (HPCA)
 abstract: "Virtual memory, with the support of address translation hardware, is a key technique in expanding programmability
 and memory management in GPUs. However, the nature of the
 GPU execution model heavily pressures its translation hardware,
