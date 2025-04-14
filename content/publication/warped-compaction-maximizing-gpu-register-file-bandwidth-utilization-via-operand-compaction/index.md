@@ -6,8 +6,7 @@ authors:
   - admin
   - Myung Kuk Yoon
   - Nam Sung Kim
-publication: IEEE International Symposium on High Performance Computer
-  Architecture (HPCA)
+publication: IEEE International Symposium on High-Performance Computer Architecture (HPCA)
 abstract: "The GPU has been successfully used for diverse
 emerging compute-intensive applications, including imaging,
 computer vision, and more recently, deep learning, to name a few.
