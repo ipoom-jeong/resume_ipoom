@@ -49,7 +49,7 @@ Warped-Compaction, results in 26.1% higher performance
 and 21.7% better energy efficiency of RF and OCU compared
 to baseline high-end GPU."
 draft: false
-url_pdf: ""
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/10946777"
 featured: false
 summary: ""
 url_dataset: ""
@@ -61,10 +61,8 @@ url_tutorial: ""
 title: "Warped-Compaction: Maximizing GPU Register File Bandwidth Utilization
   via Operand Compaction"
 tags:
-  - GPU
+  - GPGPU
   - Microarchitecture
-  - Operand Collection
-  - Register Files
 image:
   filename: ""
   focal_point: SMART
