@@ -27,8 +27,6 @@ featured: true
 tags:
   - CPU
   - Microarchitecture
-  - Dynamic Scheduling
-  - Energy Efficiency
 summary: "In this work, we propose an energy-efficient microarchitecture named
   Ballerino, carrying out BALanced and cache-miss toLERable dynamic scheduling
   via cascaded and clustered IN-Order IQs. The proposed microarchitecture is
