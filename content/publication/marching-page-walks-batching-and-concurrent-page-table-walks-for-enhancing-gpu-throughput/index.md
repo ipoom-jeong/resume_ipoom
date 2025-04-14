@@ -35,7 +35,7 @@ issuing multiple memory instructions. Experiments show that
 MPW reduces the queueing latency of page walks by 86.7% and
 improves GPU performance by 55.6% over the baseline design."
 draft: false
-url_pdf: ""
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/10946291"
 featured: false
 summary: ""
 url_dataset: ""
@@ -47,9 +47,8 @@ url_tutorial: ""
 title: "Marching Page Walks: Batching and Concurrent Page Table Walks for
   Enhancing GPU Throughput"
 tags:
-  - GPU
+  - GPGPU
   - Microarchitecture
-  - Virtual Memory
 image:
   filename: ""
   focal_point: SMART
