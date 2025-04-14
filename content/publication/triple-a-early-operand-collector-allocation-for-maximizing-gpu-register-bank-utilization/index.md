@@ -53,10 +53,8 @@ draft: false
 url_pdf: https://ieeexplore.ieee.org/document/10226394
 featured: false
 tags:
-  - GPU
+  - GPGPU
   - Microarchitecture
-  - Operand Collection
-  - Register Files
 image:
   filename: 230509_overview.png
   focal_point: Smart
