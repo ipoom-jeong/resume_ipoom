@@ -32,10 +32,8 @@ draft: false
 url_pdf: https://ieeexplore.ieee.org/document/9848819
 featured: false
 tags:
-  - GPU
+  - GPGPU
   - Microarchitecture
-  - Register File
-  - Energy Efficiency
 summary: asd
 url_dataset: ""
 url_project: ""
