@@ -37,10 +37,8 @@ title: "CASH-RF: A Compiler-Assisted Hierarchical Register File in GPUs"
 publication: "IEEE Embedded Systems Letters (Volume: 14, Issue: 4)"
 featured: false
 tags:
-  - GPU
+  - GPGPU
   - Microarchitecture
-  - Register File
-  - Energy Efficiency
 image:
   filename: featured.png
   focal_point: Smart
