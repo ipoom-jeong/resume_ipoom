@@ -8,7 +8,7 @@ authors:
   - Seihoon Park
   - Changmin Lee
   - Won Woo Ro
-publication: IEEE International Symposium on High Performance Computer Architecture (HPCA)
+publication: IEEE International Symposium on High-Performance Computer Architecture (HPCA)
 abstract: >-
   The performance gap between in-order (InO) and out-of-order (OoO) cores comes
   from the ability to dynamically create highly optimized instruction issue
@@ -28,8 +28,6 @@ featured: true
 tags:
   - CPU
   - Microarchitecture
-  - Dynamic Scheduling
-  - Energy Efficiency
 summary: In this work, we propose a CASINO core microarchitecture that
   dynamically and speculatively generates out-of-order instruction issue
   schedules with complexity close to in-order scheduling by leveraging CAScaded
