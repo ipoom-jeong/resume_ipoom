@@ -236,6 +236,7 @@ sections:
         #### **External Reviewer**
         * IEEE Transactions on Emerging Topics in Computing (TETC)
         * IEEE Transactions on Computers (TC)
+        * ACM Transactions on Storage (TOS)
         * IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)
         * IEEE Computer Architecture Letters (CAL)
         * ACM Transactions on Architecture and Code Optimization (TACO)
