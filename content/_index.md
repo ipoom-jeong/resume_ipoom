@@ -233,6 +233,7 @@ sections:
         * 50th International Symposium on Computer Architecture (ISCA 2023)
         #### **Invited Talk**
         * Institute of Electronics and Information Engineers (IEIE) SoC Conference 2025
+        * Yonsei University AI Plus Forum 2025
         * Korean Institute of Information Scientists and Engineers(KIISE) CSS Conference 2025
         * Institute of Electronics and Information Engineers (IEIE) SoC Conference 2024
         #### **Conference Chair**
