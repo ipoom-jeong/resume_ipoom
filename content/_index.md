@@ -234,11 +234,11 @@ sections:
         #### **Invited Talk**
         * Institute of Electronics and Information Engineers (IEIE) SoC Conference 2025
         * Yonsei University AI Plus Forum 2025
-        * Korean Institute of Information Scientists and Engineers(KIISE) CSS Conference 2025
+        * Korean Institute of Information Scientists and Engineers (KIISE) CSS Conference 2025
         * Institute of Electronics and Information Engineers (IEIE) SoC Conference 2024
         #### **Conference Chair**
         * Excursion chair: IEEE/ACM International Symposium on Microarchitecture (MICRO) 2025
-        * Publication chair: Korean Institute of Information Scientists and Engineers(KIISE) CSS Conference 2025
+        * Publication chair: Korean Institute of Information Scientists and Engineers (KIISE) CSS Conference 2025
         * Session chair: Artificial Intelligence Circuits and Systems (AICAS) 2022
         #### **External Reviewer Committee**
         * IEEE/ACM International Symposium on Microarchitecture (MICRO) 2025
