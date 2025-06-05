@@ -8,7 +8,7 @@ authors:
   - Yongjoo Park
   - Nam Sung Kim
 publication: IEEE International Symposium on Performance Analysis of Systems and
-  Software (ISPASS, accepted)
+  Software (ISPASS)
 abstract: "The rapid advancements in CPU performance have
 slowed due to the end of Dennard scaling and the exponential
 growth of data, making it increasingly difficult to sustain previous
