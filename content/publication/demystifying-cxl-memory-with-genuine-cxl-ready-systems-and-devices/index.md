@@ -47,7 +47,7 @@ image:
   filename: featured.png
   focal_point: SMART
   preview_only: false
-  caption: CXL memory module overview
+  caption: CXL type 3 memory module
 date: 2023-04-04T04:51:05.873Z
 url_slides: ""
 url_poster: ""
