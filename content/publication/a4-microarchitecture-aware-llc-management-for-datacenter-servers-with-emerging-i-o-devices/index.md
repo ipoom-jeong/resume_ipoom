@@ -50,7 +50,7 @@ tags:
   - Data direct I/O
   - Systems
 image:
-  filename: ""
+  filename: "a4.png"
   focal_point: SMART
   preview_only: false
   caption: ""
