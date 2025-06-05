@@ -48,7 +48,7 @@ tags:
   - Database
   - Systems
 image:
-  filename: ""
+  filename: "upp.png"
   focal_point: SMART
   preview_only: false
   caption: ""
