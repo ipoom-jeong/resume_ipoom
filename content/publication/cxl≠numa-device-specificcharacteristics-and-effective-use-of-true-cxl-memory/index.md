@@ -48,7 +48,7 @@ image:
   filename: featured.png
   focal_point: SMART
   preview_only: false
-  caption: CXL memory module overview
+  caption: CXL type 3 memory expander
 date: 2023-10-25T18:08:56.908Z
 url_slides: ""
 url_poster: ""
