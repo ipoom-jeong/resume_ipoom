@@ -38,7 +38,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 image:
-  filename: ballerino.jpg
+  filename: ballerino.png
   focal_point: Smart
   preview_only: false
   caption: Ballerino core microarchitecture
