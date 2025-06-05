@@ -41,7 +41,7 @@ image:
   filename: ballerino.png
   focal_point: Smart
   preview_only: false
-  caption: Ballerino core microarchitecture
+  caption: 
 date: 2022-10-01T02:57:06.623Z
 url_slides: ""
 url_poster: ""
