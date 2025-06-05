@@ -53,7 +53,7 @@ image:
   filename: "a4.png"
   focal_point: SMART
   preview_only: false
-  caption: ""
+  caption: "LLC orchestration in A4"
 date: 2025-04-08T07:42:18.616Z
 url_slides: ""
 url_poster: ""
