@@ -41,7 +41,7 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
-  caption: CASINO core microarchitecture overview
+  caption: CASINO core microarchitecture
 date: 2020-02-22T00:00:00.750Z
 url_slides: ""
 url_poster: ""
