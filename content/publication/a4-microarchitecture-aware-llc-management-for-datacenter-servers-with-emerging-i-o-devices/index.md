@@ -35,7 +35,7 @@ compromising that of low-priority workloads."
 draft: false
 url_pdf: ""
 featured: true
-summary: ""
+summary: "This work uncovers two previously unknown sources of Last-Level Cache (LLC) contention in Intel Xeon CPUs caused by high-bandwidth I/O devices and proposes A4, a runtime LLC management framework that mitigates these issues. A4 improves performance for latency-sensitive workloads by 51% without significantly affecting low-priority workloads."
 url_dataset: ""
 url_project: ""
 publication_short: ""
