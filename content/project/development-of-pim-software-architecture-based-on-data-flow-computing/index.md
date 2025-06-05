@@ -1,8 +1,8 @@
 ---
-title: Development of PIM Software Architecture based on Data-Flow Computing
+title: Development of PIM Software Architecture based on Data-Flow Computing <br> (2024.04 - 2025.12)
 date: 2024-04-01T00:00:00.148Z
 summary: >-
-  * Institute for Information & communication Technology Planning & evaluation (IITP) (2024.04 - 2025.12)
+  * Institute for Information & communication Technology Planning & evaluation (IITP) 
 
   * D﻿eveloping software architecture for data-flow-based PIM devices
 draft: false
