@@ -51,7 +51,7 @@ image:
   filename: "upp.png"
   focal_point: SMART
   preview_only: false
-  caption: "UPP workflow"
+  caption: 
 date: 2025-04-08T07:41:54.531Z
 url_slides: ""
 url_poster: ""
