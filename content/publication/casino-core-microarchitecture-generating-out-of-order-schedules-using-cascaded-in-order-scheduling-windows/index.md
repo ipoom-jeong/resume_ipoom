@@ -38,7 +38,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 image:
-  filename: featured.png
+  filename: casino.png
   focal_point: Smart
   preview_only: false
   caption: CASINO core microarchitecture
