@@ -1,5 +1,5 @@
 ---
-title: Basic Research Laboratory for Energy-Efficient, General-Purpose Multi-Modal AI with Heterogeneous Computing Accelerators <br> (Ongoing: 2025.06 - 2028.05)
+title: "Basic Research Laboratory for Energy-Efficient, General-Purpose Multi-Modal AI with Heterogeneous Computing Accelerators <br> (Ongoing: 2025.06 - 2028.05)"
 date: 2025-06-01T00:00:23.488Z
 summary: >-
   * National Research Foundation of Korea (NRF)
