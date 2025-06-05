@@ -34,7 +34,7 @@ performance by 1.2×–7.9× without changing input data formats."
 draft: false
 url_pdf: ""
 featured: true
-summary: ""
+summary: "This work introduces Universal Predicate Pushdown (UPP), a flexible in-storage processing (ISP) approach that accelerates modern analytical queries by offloading complex filter predicates to FPGA-based storage using a custom instruction set. By efficiently handling diverse operators and data formats, UPP achieves 1.2×–7.9× speedups on Spark queries over a 100 GB TPC-H dataset without requiring changes to input data formats."
 url_dataset: ""
 url_project: ""
 publication_short: ""
