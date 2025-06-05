@@ -59,7 +59,7 @@ image:
   filename: 230509_overview.png
   focal_point: Smart
   preview_only: false
-  caption: Triple-A microarchitecture overview
+  caption: 
 summary: ""
 date: 2024-05-31T08:02:10.121Z
 ---
