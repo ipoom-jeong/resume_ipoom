@@ -49,7 +49,7 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
-  caption: OverCome core microarchitecture overview
+  caption: 
 date: 2019-12-01T00:00:00.233Z
 url_slides: ""
 url_poster: ""
