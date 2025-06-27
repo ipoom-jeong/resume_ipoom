@@ -3,11 +3,9 @@ title: Time Series Machine Learning Models for Precise SSD Access Latency Predic
 publication_types:
   - "2"
 authors:
+  - Bikrant Das Sharma
+  - Houxiang Ji
   - admin
-  - Jiaqi Lou
-  - Yongseok Son
-  - Yongjoo Park
-  - Yifan Yuan
   - Nam Sung Kim
 publication: IEEE Computer Architecture Letters (accepted)
 abstract: >-
@@ -24,20 +22,13 @@ abstract: >-
   make imprecise predictions while consuming significant system resources and
   time. For system simulation, latency predictions must be both fast and
   accurate, focusing solely on device-level delays excluding OS overhead, which
-  is modeled separately. To
-
-  tackle these challenges, this paper presents time series machine learning models to accurately predict hardware-only SSD latencies across diverse workloads. Our evaluation shows that the proposed model predicts 85%–95% of individual I/O latencies within a 10% error margin, outperforming existing simulators and ML models, which achieve only 6%–37% accuracy, while also providing 4×–255× speedups in prediction latency.
+  is modeled separately. To tackle these challenges, this paper presents time series machine learning models to accurately predict hardware-only SSD latencies across diverse workloads. Our evaluation shows that the proposed model predicts 85%–95% of individual I/O latencies within a 10% error margin, outperforming existing simulators and ML models, which achieve only 6%–37% accuracy, while also providing 4×–255× speedups in prediction latency.
 draft: false
-url_pdf: https://ieeexplore.ieee.org/document/10171430
+url_pdf: https://ieeexplore.ieee.org/document/11045247
 featured: false
 tags:
-  - DDIO
-  - Datacenter
-  - Last-Level Cache
-  - I/O
-  - Storage
-  - Network
-  - CPU
+  - SSD
+  - Modeling
 image:
   filename: featured
   focal_point: Smart
