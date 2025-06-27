@@ -48,7 +48,6 @@ tags:
   - Microarchitecture
   - Last-level cache
   - Data direct I/O
-  - Datacenter
 image:
   filename: "a4.png"
   focal_point: SMART
