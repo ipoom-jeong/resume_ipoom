@@ -7,8 +7,7 @@ authors:
   - admin
   - Yongjoo Park
   - Nam Sung Kim
-publication: IEEE International Symposium on Performance Analysis of Systems and
-  Software (ISPASS)
+publication: IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS, Best Paper Honorable Mention, Distinguished Artifact Award)
 abstract: "The rapid advancements in CPU performance have
 slowed due to the end of Dennard scaling and the exponential
 growth of data, making it increasingly difficult to sustain previous
@@ -41,13 +40,11 @@ publication_short: ""
 url_source: ""
 url_video: ""
 url_tutorial: ""
-title: "Intel® In-Memory Analytics Accelerator: Performance Characterization and
-  Guidelines"
+title: "Intel® In-Memory Analytics Accelerator: Performance Characterization and Guidelines"
 tags:
   - CPU
+  - Microarchitecture
   - Accelerator
-  - IAA
-  - Systems
 image:
   filename: ""
   focal_point: SMART
