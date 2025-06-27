@@ -46,8 +46,9 @@ url_tutorial: ""
 title: "Marching Page Walks: Batching and Concurrent Page Table Walks for
   Enhancing GPU Throughput"
 tags:
-  - GPGPU
+  - GPU
   - Microarchitecture
+  - Virtual memory
 image:
   filename: ""
   focal_point: SMART
