@@ -43,6 +43,7 @@ url_video: ""
 url_tutorial: ""
 title: "UPP: Universal Predicate Pushdown to Smart Storage"
 tags:
+  - Systems
   - SSD
   - In-storage processing
   - Database
