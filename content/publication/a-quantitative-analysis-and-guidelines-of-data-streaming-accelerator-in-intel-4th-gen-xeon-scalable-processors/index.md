@@ -30,10 +30,9 @@ url_tutorial: ""
 title: A Quantitative Analysis and Guidelines of Data Streaming Accelerator in
   Modern Intel Xeon Scalable Processors
 tags:
+  - CPU
+  - Microarchitecture
   - Accelerator
-  - DMA
-  - Xeon
-  - Sapphire Rapids
 date: 2024-04-25T03:45:50.587Z
 url_slides: ""
 links:
