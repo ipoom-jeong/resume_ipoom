@@ -64,7 +64,7 @@ tags:
   - Microarchitecture
   - Register file
 image:
-  filename: ""
+  filename: "wpc.png"
   focal_point: SMART
   preview_only: false
   caption: ""
