@@ -10,7 +10,7 @@ authors:
   - Yongseok Son
   - admin
   - Nam Sung Kim
-publication: ACM/IEEE International Symposium on Computer Architecture (ISCA, accepted)
+publication: ACM/IEEE International Symposium on Computer Architecture (ISCA)
 abstract: "In modern server CPUs, the Last-Level Cache (LLC) serves not
 only as a victim cache for higher-level private caches but also as a
 buffer for low-latency DMA transfers between CPU cores and I/O
@@ -33,7 +33,7 @@ that A4 can also alleviate other previously known network-I/O-driven LLC content
 latency-sensitive, high-priority workloads by 51% without notably
 compromising that of low-priority workloads."
 draft: false
-url_pdf: ""
+url_pdf: "https://dl.acm.org/doi/full/10.1145/3695053.3731114"
 featured: true
 summary: "This work uncovers two previously unknown sources of Last-Level Cache (LLC) contention in Intel Xeon CPUs caused by high-bandwidth I/O devices and proposes A4, a runtime LLC management framework that mitigates these issues. A4 improves performance for latency-sensitive workloads by 51% without significantly affecting low-priority workloads."
 url_dataset: ""
@@ -48,7 +48,7 @@ tags:
   - Microarchitecture
   - Last-level cache
   - Data direct I/O
-  - Systems
+  - Datacenter
 image:
   filename: "a4.png"
   focal_point: SMART
