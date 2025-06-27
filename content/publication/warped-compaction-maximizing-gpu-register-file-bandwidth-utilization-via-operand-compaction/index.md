@@ -60,8 +60,9 @@ url_tutorial: ""
 title: "Warped-Compaction: Maximizing GPU Register File Bandwidth Utilization
   via Operand Compaction"
 tags:
-  - GPGPU
+  - GPU
   - Microarchitecture
+  - Register file
 image:
   filename: ""
   focal_point: SMART
