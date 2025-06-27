@@ -9,7 +9,7 @@ authors:
   - Jaeyoung Kang
   - Nam Sung Kim
   - Yongjoo Park
-publication: ACM/IEEE International Symposium on Computer Architecture (ISCA, accepted)
+publication: ACM/IEEE International Symposium on Computer Architecture (ISCA)
 abstract: "In large-scale analytics, in-storage processing (ISP) can significantly
 boost query performance by letting ISP engines (e.g., FPGAs) preselect only the relevant data before sending them to databases.
 This reduces the amount of not only data transfer between storage
@@ -32,7 +32,7 @@ metadata. In our experiments with a 100 GB TPC-H dataset, UPP
 running on SmartSSD could speed up Spark’s end-to-end query
 performance by 1.2×–7.9× without changing input data formats."
 draft: false
-url_pdf: ""
+url_pdf: "https://dl.acm.org/doi/full/10.1145/3695053.3731005"
 featured: true
 summary: "This work introduces Universal Predicate Pushdown (UPP), a flexible in-storage processing (ISP) approach that accelerates modern analytical queries by offloading complex filter predicates to FPGA-based storage using a custom instruction set. By efficiently handling diverse operators and data formats, UPP achieves 1.2×–7.9× speedups on Spark queries over a 100 GB TPC-H dataset without requiring changes to input data formats."
 url_dataset: ""
@@ -46,7 +46,6 @@ tags:
   - SSD
   - In-storage processing
   - Database
-  - Systems
 image:
   filename: "upp.png"
   focal_point: SMART
