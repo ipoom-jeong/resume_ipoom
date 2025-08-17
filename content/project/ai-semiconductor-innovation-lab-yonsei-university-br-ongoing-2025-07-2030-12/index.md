@@ -10,7 +10,7 @@ summary: >-
 draft: false
 featured: false
 image:
-  filename: brl.png
+  filename: ai_lab.png
   focal_point: Smart
   preview_only: false
 ---
