@@ -244,7 +244,7 @@ sections:
         * Session chair: Korea Computer Congress (KCC) 2025
         * Publication chair: Korean Institute of Information Scientists and Engineers (KIISE) CSS Conference 2025
         * Session chair: Artificial Intelligence Circuits and Systems (AICAS) 2022
-        #### **External Reviewer Committee**
+        #### **External Review Committee**
         * IEEE/ACM International Symposium on Microarchitecture (MICRO) 2025
         * IEEE Transactions on Emerging Topics in Computing (TETC)
         * IEEE Transactions on Computers (TC)
