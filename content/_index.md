@@ -1,4 +1,4 @@
----
+<img width="1213" height="105" alt="image" src="https://github.com/user-attachments/assets/2a624b4f-e8f7-4e75-933c-30fdc9a5e3d5" />---
 # Leave the homepage title empty to use the site title
 title:
 date: 2022-10-24
@@ -228,10 +228,22 @@ sections:
       title: Activities
       subtitle: ""
       text: |2-
+        #### **Program Committee**
+        * IEEE/ACM International Symposium on Computer Architecture (ISCA) 2026
+        #### **External Review Committee**
+        * IEEE/ACM International Symposium on Microarchitecture (MICRO) 2025
+        * IEEE Transactions on Emerging Topics in Computing (TETC)
+        * IEEE Transactions on Computers (TC)
+        * ACM Transactions on Storage (TOS)
+        * IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)
+        * IEEE Computer Architecture Letters (CAL)
+        * ACM Transactions on Architecture and Code Optimization (TACO)
+        * Microprocessors and Microsystems
         #### **Tutorial Organizer**
         * On-chip Accelerators in 4th Gen Intel® Xeon® Scalable Processors: Features, Performance, Use Cases, and Future!
         * 50th International Symposium on Computer Architecture (ISCA 2023)
         #### **Invited Talk/Lecture**
+        * Computer Architectures for Artificial Intelligence, Seoul National University 2025
         * IC Design Education Center (IDEC) Academy 2025
         * Institute of Electronics and Information Engineers (IEIE) SoC Conference 2025
         * Yonsei University AI Plus Forum 2025
@@ -244,15 +256,7 @@ sections:
         * Session chair: Korea Computer Congress (KCC) 2025
         * Publication chair: Korean Institute of Information Scientists and Engineers (KIISE) CSS Conference 2025
         * Session chair: Artificial Intelligence Circuits and Systems (AICAS) 2022
-        #### **External Review Committee**
-        * IEEE/ACM International Symposium on Microarchitecture (MICRO) 2025
-        * IEEE Transactions on Emerging Topics in Computing (TETC)
-        * IEEE Transactions on Computers (TC)
-        * ACM Transactions on Storage (TOS)
-        * IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)
-        * IEEE Computer Architecture Letters (CAL)
-        * ACM Transactions on Architecture and Code Optimization (TACO)
-        * Microprocessors and Microsystems
+        
         
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
