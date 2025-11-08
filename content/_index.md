@@ -239,9 +239,11 @@ sections:
         * IEEE Computer Architecture Letters (CAL)
         * ACM Transactions on Architecture and Code Optimization (TACO)
         * Microprocessors and Microsystems
-        #### **Tutorial Organizer**
-        * On-chip Accelerators in 4th Gen Intel® Xeon® Scalable Processors: Features, Performance, Use Cases, and Future!
-        * 50th International Symposium on Computer Architecture (ISCA 2023)
+        #### **Conference Chair**
+        * Excursion chair: IEEE/ACM International Symposium on Microarchitecture (MICRO) 2025
+        * Session chair: Korea Computer Congress (KCC) 2025
+        * Publication chair: Korean Institute of Information Scientists and Engineers (KIISE) CSS Conference 2025
+        * Session chair: Artificial Intelligence Circuits and Systems (AICAS) 2022
         #### **Invited Talk/Lecture**
         * Computer Architectures for Artificial Intelligence, Seoul National University 2025
         * IC Design Education Center (IDEC) Academy 2025
@@ -251,12 +253,9 @@ sections:
         * IC Design Education Center (IDEC) Academy 2024
         * Yonsei University EE Open Lab 2024
         * Institute of Electronics and Information Engineers (IEIE) SoC Conference 2024
-        #### **Conference Chair**
-        * Excursion chair: IEEE/ACM International Symposium on Microarchitecture (MICRO) 2025
-        * Session chair: Korea Computer Congress (KCC) 2025
-        * Publication chair: Korean Institute of Information Scientists and Engineers (KIISE) CSS Conference 2025
-        * Session chair: Artificial Intelligence Circuits and Systems (AICAS) 2022
-        
+        #### **Tutorial Organizer**
+        * On-chip Accelerators in 4th Gen Intel® Xeon® Scalable Processors: Features, Performance, Use Cases, and Future!
+        * 50th International Symposium on Computer Architecture (ISCA 2023)
         
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
