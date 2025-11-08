@@ -256,7 +256,6 @@ sections:
         #### **Tutorial Organizer**
         * On-chip Accelerators in 4th Gen Intel® Xeon® Scalable Processors: Features, Performance, Use Cases, and Future!
         * 50th International Symposium on Computer Architecture (ISCA 2023)
-        
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
