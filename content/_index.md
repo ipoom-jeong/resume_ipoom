@@ -245,6 +245,7 @@ sections:
         * Publication chair: Korean Institute of Information Scientists and Engineers (KIISE) CSS Conference 2025
         * Session chair: Artificial Intelligence Circuits and Systems (AICAS) 2022
         #### **Invited Talk/Lecture**
+        * Intelligent Semiconductor IT Convergence Symposium 2026
         * Computer Architectures for Artificial Intelligence, Seoul National University 2025
         * IC Design Education Center (IDEC) Academy 2025
         * Institute of Electronics and Information Engineers (IEIE) SoC Conference 2025
