@@ -240,6 +240,7 @@ sections:
         * ACM Transactions on Architecture and Code Optimization (TACO)
         * Microprocessors and Microsystems
         #### **Conference Chair**
+        * Session chair: IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS) 2026
         * Excursion chair: IEEE/ACM International Symposium on Microarchitecture (MICRO) 2025
         * Session chair: Korea Computer Congress (KCC) 2025
         * Publication chair: Korean Institute of Information Scientists and Engineers (KIISE) CSS Conference 2025
