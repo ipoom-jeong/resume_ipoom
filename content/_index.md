@@ -229,9 +229,9 @@ sections:
       subtitle: ""
       text: |2-
         #### **Program Committee**
-        * IEEE/ACM International Symposium on Computer Architecture (ISCA) 2026
+        * IEEE/ACM International Symposium on Computer Architecture (ISCA), 2026
         #### **External Review Committee**
-        * IEEE/ACM International Symposium on Microarchitecture (MICRO) 2025
+        * IEEE/ACM International Symposium on Microarchitecture (MICRO), 2025
         * IEEE Transactions on Emerging Topics in Computing (TETC)
         * IEEE Transactions on Computers (TC)
         * ACM Transactions on Storage (TOS)
@@ -240,21 +240,22 @@ sections:
         * ACM Transactions on Architecture and Code Optimization (TACO)
         * Microprocessors and Microsystems
         #### **Conference Chair**
-        * Session chair: IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS) 2026
-        * Excursion chair: IEEE/ACM International Symposium on Microarchitecture (MICRO) 2025
-        * Session chair: Korea Computer Congress (KCC) 2025
-        * Publication chair: Korean Institute of Information Scientists and Engineers (KIISE) CSS Conference 2025
-        * Session chair: Artificial Intelligence Circuits and Systems (AICAS) 2022
+        * Session chair: IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), 2026
+        * Excursion chair: IEEE/ACM International Symposium on Microarchitecture (MICRO), 2025
+        * Session chair: Korea Computer Congress (KCC), 2025
+        * Publication chair: Korean Institute of Information Scientists and Engineers (KIISE) CSS Conference, 2025
+        * Session chair: Artificial Intelligence Circuits and Systems (AICAS), 2022
         #### **Invited Talk/Lecture**
-        * Yonsei University Intelligent Semiconductor IT Convergence Symposium 2026
-        * Computer Architectures for Artificial Intelligence, Seoul National University 2025
-        * IC Design Education Center (IDEC) Academy 2025
-        * Institute of Electronics and Information Engineers (IEIE) SoC Conference 2025
-        * Yonsei University AI Plus Forum 2025
-        * Korean Institute of Information Scientists and Engineers (KIISE) CSS Conference 2025
-        * IC Design Education Center (IDEC) Academy 2024
-        * Yonsei University EE Open Lab 2024
-        * Institute of Electronics and Information Engineers (IEIE) SoC Conference 2024
+        * _Software for Artificial Intelligence, Ewha Womans University, 2026
+        * Yonsei University Intelligent Semiconductor IT Convergence Symposium, 2026
+        * Computer Architectures for Artificial Intelligence, Seoul National University, 2025
+        * IC Design Education Center (IDEC) Academy, Korea University, 2025
+        * SoC Conference, Institute of Electronics and Information Engineers (IEIE), 2025
+        * AI Plus Forum, Yonsei University, 2025
+        * CSS Conference, Korean Institute of Information Scientists and Engineers (KIISE), 2025
+        * IC Design Education Center (IDEC) Academy, Korea University, 2024
+        * EE Open Lab, Yonsei University, 2024
+        * SoC Conference, Institute of Electronics and Information Engineers (IEIE), 2024
         #### **Tutorial Organizer**
         * On-chip Accelerators in 4th Gen Intel® Xeon® Scalable Processors: Features, Performance, Use Cases, and Future!
         * 50th International Symposium on Computer Architecture (ISCA 2023)
