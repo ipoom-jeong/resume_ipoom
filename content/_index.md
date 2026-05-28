@@ -229,6 +229,7 @@ sections:
       subtitle: ""
       text: |2-
         #### **Program Committee**
+        * IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2027
         * IEEE/ACM International Symposium on Computer Architecture (ISCA), 2026
         #### **External Review Committee**
         * IEEE/ACM International Symposium on Microarchitecture (MICRO), 2025
@@ -246,7 +247,7 @@ sections:
         * Publication chair: Korean Institute of Information Scientists and Engineers (KIISE) CSS Conference, 2025
         * Session chair: Artificial Intelligence Circuits and Systems (AICAS), 2022
         #### **Invited Talk/Lecture**
-        * _Software for Artificial Intelligence, Ewha Womans University, 2026
+        * Software for Artificial Intelligence, Ewha Womans University, 2026
         * Yonsei University Intelligent Semiconductor IT Convergence Symposium, 2026
         * Computer Architectures for Artificial Intelligence, Seoul National University, 2025
         * IC Design Education Center (IDEC) Academy, Korea University, 2025
