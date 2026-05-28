@@ -248,7 +248,7 @@ sections:
         * Session chair: Artificial Intelligence Circuits and Systems (AICAS), 2022
         #### **Invited Talk/Lecture**
         * Software for Artificial Intelligence, Ewha Womans University, 2026
-        * Yonsei University Intelligent Semiconductor IT Convergence Symposium, 2026
+        * Intelligent Semiconductor IT Convergence Symposium, Yonsei University, 2026
         * Computer Architectures for Artificial Intelligence, Seoul National University, 2025
         * IC Design Education Center (IDEC) Academy, Korea University, 2025
         * SoC Conference, Institute of Electronics and Information Engineers (IEIE), 2025
